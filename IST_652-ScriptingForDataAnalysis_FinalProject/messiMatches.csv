@@ -1,0 +1,521 @@
+season,match_id,match_week,match_date,home_score,away_score,home_team_name,home_team_managers_name,away_team_name,away_team_managers_name,stadium_name,referee_name,opponent
+2004.0,68314,14,2004-12-04,4,0,Barcelona,Frank Rijkaard,Málaga,Gregorio Manzano Ballesteros,Spotify Camp Nou,José Omar Losantos,Málaga
+2004.0,68313,8,2004-10-24,3,0,Barcelona,Frank Rijkaard,Osasuna,Javier Aguirre Onaindía,Spotify Camp Nou,Vicente José Lizondo Cortés,Osasuna
+2004.0,68316,34,2005-05-01,2,0,Barcelona,Frank Rijkaard,Albacete,Martín Monteagudo Monteagudo,Spotify Camp Nou,Carlos Velasco Carballo,Albacete
+2004.0,68315,17,2004-12-21,2,1,Barcelona,Frank Rijkaard,Levante UD,Bernd Schuster,Spotify Camp Nou,David Fernández Borbalan,Levante UD
+2004.0,69153,15,2004-12-11,1,2,Albacete,José Manuel González López,Barcelona,Frank Rijkaard,Estadio Carlos Belmonte,Alfonso Perez Burrull,Albacete
+2004.0,68352,32,2005-04-17,2,0,Barcelona,Frank Rijkaard,Getafe,Enrique Sánchez Flores,Spotify Camp Nou,Puentes Leira,Getafe
+2004.0,68353,7,2004-10-16,0,1,Espanyol,Miguel Ángel Lotina Oruecheberría,Barcelona,Frank Rijkaard,Estadi Olímpic Lluís Companys,Carlos Megía Dávila,Espanyol
+2005.0,69164,11,2005-10-26,2,0,Barcelona,Frank Rijkaard,Málaga,Antonio Tapia Flores,Spotify Camp Nou,Puentes Leira,Málaga
+2005.0,68324,20,2006-01-22,2,0,Barcelona,,Deportivo Alavés,,Spotify Camp Nou,Turienzo,Deportivo Alavés
+2005.0,68320,14,2005-12-04,0,2,Villarreal,Manuel Luis Pellegrini Ripamonti,Barcelona,Frank Rijkaard,Estadio de la Cerámica,César Muñiz,Villarreal
+2005.0,68323,17,2005-12-20,2,0,Barcelona,Frank Rijkaard,Celta Vigo,Fernando Vázquez Pena,Spotify Camp Nou,Miguel Pérez,Celta Vigo
+2005.0,69172,24,2006-02-18,5,1,Barcelona,,Real Betis,,Spotify Camp Nou,Eduardo Iturralde Gonzalez,Real Betis
+2005.0,68339,10,2005-11-06,1,3,Getafe,Bernd Schuster,Barcelona,Frank Rijkaard,Coliseum Alfonso Pérez,Arturo Daudén Ibáñez,Getafe
+2005.0,68348,18,2006-01-07,1,2,Espanyol,Miguel Ángel Lotina Oruecheberría,Barcelona,Frank Rijkaard,Estadi Olímpic Lluís Companys,Bernardino Gonzalez,Espanyol
+2005.0,68354,13,2005-11-27,4,1,Barcelona,Frank Rijkaard,Racing Santander,Manuel Preciado Rebolledo,Spotify Camp Nou,Rafael Ramírez Domínguez,Racing Santander
+2005.0,68351,25,2006-02-25,0,2,Real Zaragoza,Víctor Muñoz Manrique,Barcelona,Frank Rijkaard,Estadio de la Romareda,Victor José Esquinas Torres,Real Zaragoza
+2005.0,68317,6,2005-10-01,2,2,Barcelona,Frank Rijkaard,Real Zaragoza,Víctor Muñoz Manrique,Spotify Camp Nou,Carlos Megía Dávila,Real Zaragoza
+2005.0,68350,22,2006-02-05,1,3,Barcelona,,Atlético Madrid,,Spotify Camp Nou,Vicente José Lizondo Cortés,Atlético Madrid
+2005.0,68325,21,2006-01-29,0,3,Mallorca,Héctor Raúl Cúper,Barcelona,Frank Rijkaard,Estadi Mallorca Son Moix,Carlos Megía Dávila,Mallorca
+2005.0,68321,15,2005-12-11,2,1,Barcelona,Frank Rijkaard,Sevilla,Juan de la Cruz Ramos Cano,Spotify Camp Nou,Julian Rodriguez Santiago,Sevilla
+2005.0,68319,12,2005-11-19,0,3,Real Madrid,Vanderlei Luxemburgo da Silva,Barcelona,Frank Rijkaard,Estadio Santiago Bernabéu,Eduardo Iturralde Gonzalez,Real Madrid
+2005.0,68342,19,2006-01-15,2,1,Barcelona,Frank Rijkaard,Athletic Club,Javier Clemente Lazaro,Spotify Camp Nou,Fernando Teixeira,Athletic Club
+2005.0,68322,16,2005-12-17,1,3,Cádiz,Víctor Rodolfo Espárrago Videla,Barcelona,Frank Rijkaard,Estadio Nuevo Mirandilla,Miguel Ayza,Cádiz
+2005.0,68318,8,2005-10-22,3,0,Barcelona,Frank Rijkaard,Osasuna,Javier Aguirre Onaindía,Spotify Camp Nou,César Muñiz,Osasuna
+2006.0,69176,35,2007-05-20,0,6,Atlético Madrid,Javier Aguirre Onaindía,Barcelona,Frank Rijkaard,Estadio Vicente Calderón,César Muñiz,Atlético Madrid
+2006.0,69179,29,2007-04-07,1,0,Real Zaragoza,Victor Fernández Braulio,Barcelona,Frank Rijkaard,Estadio de la Romareda,Luis Medina Cantalejo,Real Zaragoza
+2006.0,68334,25,2007-03-03,2,1,Sevilla,Juan de la Cruz Ramos Cano,Barcelona,Frank Rijkaard,Estadio Ramón Sánchez Pizjuán,Bernardino Gonzalez,Sevilla
+2006.0,68333,24,2007-02-25,3,0,Barcelona,,Athletic Club,,Spotify Camp Nou,Vicente José Lizondo Cortés,Athletic Club
+2006.0,68336,38,2007-06-17,1,5,Gimnàstic Tarragona,Francisco Flores Lajusticia,Barcelona,Frank Rijkaard,Nou Estadi Costa Daurada,Alberto Undiano Mallenco,Gimnàstic Tarragona
+2006.0,68326,1,2006-08-28,2,3,Celta Vigo,Fernando Vázquez Pena,Barcelona,Frank Rijkaard,Abanca-Balaídos,Miguel Pérez,Celta Vigo
+2006.0,69162,34,2007-05-13,1,1,Barcelona,,Real Betis,,Spotify Camp Nou,Eduardo Iturralde Gonzalez,Real Betis
+2006.0,68335,26,2007-03-10,3,3,Barcelona,Frank Rijkaard,Real Madrid,Fabio Capello,Spotify Camp Nou,Alberto Undiano Mallenco,Real Madrid
+2006.0,68332,23,2007-02-18,2,1,Valencia,Enrique Sánchez Flores,Barcelona,Frank Rijkaard,Estadio de Mestalla,Eduardo Iturralde Gonzalez,Valencia
+2006.0,68330,7,2006-10-22,2,0,Real Madrid,Fabio Capello,Barcelona,Frank Rijkaard,Estadio Santiago Bernabéu,Alfonso Perez Burrull,Real Madrid
+2006.0,68329,6,2006-10-15,3,1,Barcelona,Frank Rijkaard,Sevilla,Juan de la Cruz Ramos Cano,Spotify Camp Nou,César Muñiz,Sevilla
+2006.0,68341,27,2007-03-17,0,4,Recreativo Huelva,Marcelino García Toral,Barcelona,Frank Rijkaard,Estadio Nuevo Colombino,Turienzo,Recreativo Huelva
+2006.0,69165,37,2007-06-09,2,2,Barcelona,Frank Rijkaard,Espanyol,Ernesto Valverde Tejedor,Spotify Camp Nou,Julian Rodriguez Santiago,Espanyol
+2006.0,69155,31,2007-04-22,2,0,Villarreal,Manuel Luis Pellegrini Ripamonti,Barcelona,Frank Rijkaard,Estadio de la Cerámica,Alfonso Perez Burrull,Villarreal
+2006.0,69154,22,2007-02-11,2,0,Barcelona,Frank Rijkaard,Racing Santander,Miguel Ángel Portugal Vicario,Spotify Camp Nou,Manuel Enrique Mejuto Gonzalez,Racing Santander
+2006.0,69156,32,2007-04-29,1,0,Barcelona,Frank Rijkaard,Levante UD,Abel Resino Gómez,Spotify Camp Nou,Carlos Clos Gómez,Levante UD
+2006.0,69159,30,2007-04-15,1,0,Barcelona,Frank Rijkaard,Mallorca,Gregorio Manzano Ballesteros,Spotify Camp Nou,Rafael Ramírez Domínguez,Mallorca
+2006.0,69175,28,2007-03-31,2,1,Barcelona,Frank Rijkaard,RC Deportivo La Coruña,Joaquín de Jesús Caparrós Camino,Spotify Camp Nou,Miguel Ayza,RC Deportivo La Coruña
+2006.0,69160,33,2007-05-05,0,2,Real Sociedad,Miguel Ángel Lotina Oruecheberría,Barcelona,Frank Rijkaard,Reale Arena,Fernando Teixeira,Real Sociedad
+2006.0,68331,10,2006-11-12,3,1,Barcelona,Frank Rijkaard,Real Zaragoza,Victor Fernández Braulio,Spotify Camp Nou,Eduardo Iturralde Gonzalez,Real Zaragoza
+2006.0,68328,4,2006-09-24,1,1,Barcelona,Frank Rijkaard,Valencia,Enrique Sánchez Flores,Spotify Camp Nou,Arturo Daudén Ibáñez,Valencia
+2006.0,68340,3,2006-09-17,0,3,Racing Santander,Miguel Ángel Portugal Vicario,Barcelona,Frank Rijkaard,Campos de Sport de El Sardinero,Carlos Velasco Carballo,Racing Santander
+2006.0,69174,9,2006-11-04,1,1,RC Deportivo La Coruña,Joaquín de Jesús Caparrós Camino,Barcelona,Frank Rijkaard,Estadio Abanca-Riazor,Luis Medina Cantalejo,RC Deportivo La Coruña
+2006.0,68347,5,2006-09-30,1,3,Athletic Club,Félix Ángel Sarriugarte Montoya,Barcelona,Frank Rijkaard,Estadio San Mamés,David Fernández Borbalan,Athletic Club
+2006.0,68327,2,2006-09-09,3,0,Barcelona,Frank Rijkaard,Osasuna,José Ángel Ziganda Lacunza,Spotify Camp Nou,Julian Rodriguez Santiago,Osasuna
+2006.0,69157,36,2007-05-26,1,0,Barcelona,Frank Rijkaard,Getafe,Bernd Schuster,Spotify Camp Nou,Alfonso Perez Burrull,Getafe
+2007.0,69151,6,2007-09-29,1,4,Levante UD,Abel Resino Gómez,Barcelona,Frank Rijkaard,Estadio Ciudad de Valencia,Carlos Clos Gómez,Levante UD
+2007.0,69144,7,2007-10-07,3,0,Barcelona,Frank Rijkaard,Atlético Madrid,Javier Aguirre Onaindía,Spotify Camp Nou,Eduardo Iturralde Gonzalez,Atlético Madrid
+2007.0,69169,2,2007-09-02,3,1,Barcelona,Frank Rijkaard,Athletic Club,Joaquín de Jesús Caparrós Camino,Spotify Camp Nou,Carlos Megía Dávila,Athletic Club
+2007.0,68360,25,2008-02-24,5,1,Barcelona,Frank Rijkaard,Levante UD,Giovanni De Biasi,Spotify Camp Nou,Carlos Velasco Carballo,Levante UD
+2007.0,69186,38,2008-05-17,3,5,Real Murcia CF,Javier Clemente Lazaro,Barcelona,Frank Rijkaard,	Estadio Enrique Roca de Murcia,Rafael Ramírez Domínguez,Real Murcia CF
+2007.0,69180,1,2007-08-26,0,0,Racing Santander,Marcelino García Toral,Barcelona,Frank Rijkaard,Campos de Sport de El Sardinero,César Muñiz,Racing Santander
+2007.0,69143,5,2007-09-26,4,1,Barcelona,Frank Rijkaard,Real Zaragoza,Victor Fernández Braulio,Spotify Camp Nou,Carlos Velasco Carballo,Real Zaragoza
+2007.0,69181,21,2008-01-27,1,1,Athletic Club,Joaquín de Jesús Caparrós Camino,Barcelona,Frank Rijkaard,Estadio San Mamés,Alberto Undiano Mallenco,Athletic Club
+2007.0,68365,26,2008-03-01,4,2,Atlético Madrid,Javier Aguirre Onaindía,Barcelona,Frank Rijkaard,Estadio Vicente Calderón,David Fernández Borbalan,Atlético Madrid
+2007.0,69178,12,2007-11-10,2,0,Getafe,Michael Laudrup,Barcelona,Frank Rijkaard,Coliseum Alfonso Pérez,Arturo Daudén Ibáñez,Getafe
+2007.0,68364,8,2007-10-20,3,1,Villarreal,Manuel Luis Pellegrini Ripamonti,Barcelona,Frank Rijkaard,Estadio de la Cerámica,Manuel Enrique Mejuto Gonzalez,Villarreal
+2007.0,69170,15,2007-12-09,2,1,Barcelona,Frank Rijkaard,RC Deportivo La Coruña,Miguel Ángel Lotina Oruecheberría,Spotify Camp Nou,David Fernández Borbalan,RC Deportivo La Coruña
+2007.0,68359,33,2008-04-19,0,0,Barcelona,Frank Rijkaard,Espanyol,Ernesto Valverde Tejedor,Spotify Camp Nou,Miguel Pérez,Espanyol
+2007.0,68356,14,2007-12-01,1,1,Espanyol,Ernesto Valverde Tejedor,Barcelona,Frank Rijkaard,Estadi Olímpic Lluís Companys,Alfonso Perez Burrull,Espanyol
+2007.0,69158,9,2007-10-28,2,0,Barcelona,Frank Rijkaard,Almería,Unai Emery Etxegoien,Spotify Camp Nou,Miguel Ayza,Almería
+2007.0,69187,22,2008-02-03,1,0,Barcelona,Frank Rijkaard,Osasuna,José Ángel Ziganda Lacunza,Spotify Camp Nou,Turienzo,Osasuna
+2007.0,68363,10,2007-11-01,1,1,Real Valladolid,José Luis Mendilibar Etxebarria,Barcelona,Frank Rijkaard,Estadio Municipal José Zorrilla,Carlos Velasco Carballo,Real Valladolid
+2007.0,69166,11,2007-11-04,3,0,Barcelona,Frank Rijkaard,Real Betis,Héctor Raúl Cúper,Spotify Camp Nou,Fernando Teixeira,Real Betis
+2007.0,68366,37,2008-05-11,2,3,Barcelona,Frank Rijkaard,Mallorca,Gregorio Manzano Ballesteros,Spotify Camp Nou,Antonio Rubinos Perez,Mallorca
+2007.0,69148,4,2007-09-22,2,1,Barcelona,Frank Rijkaard,Sevilla,Juan de la Cruz Ramos Cano,Spotify Camp Nou,Alberto Undiano Mallenco,Sevilla
+2007.0,69184,13,2007-11-24,3,0,Barcelona,Frank Rijkaard,Recreativo Huelva,Víctor Muñoz Manrique,Spotify Camp Nou,Antonio Rubinos Perez,Recreativo Huelva
+2007.0,69173,20,2008-01-20,1,0,Barcelona,Frank Rijkaard,Racing Santander,Marcelino García Toral,Spotify Camp Nou,Luis Medina Cantalejo,Racing Santander
+2007.0,69146,23,2008-02-09,1,1,Sevilla,Manuel Enrique Jiménez Jiménez,Barcelona,Frank Rijkaard,Estadio Ramón Sánchez Pizjuán,Fernando Teixeira,Sevilla
+2007.0,69182,24,2008-02-16,1,2,Real Zaragoza,Javier Iruretagoyena Amiano,Barcelona,Frank Rijkaard,Estadio de la Romareda,Bernardino Gonzalez,Real Zaragoza
+2007.0,68358,32,2008-04-12,2,2,Recreativo Huelva,Manuel Zambrano Díaz,Barcelona,Frank Rijkaard,Estadio Nuevo Colombino,Carlos Clos Gómez,Recreativo Huelva
+2007.0,68361,36,2008-05-07,4,1,Real Madrid,Bernd Schuster,Barcelona,Frank Rijkaard,Estadio Santiago Bernabéu,Alfonso Perez Burrull,Real Madrid
+2007.0,69141,35,2008-05-04,6,0,Barcelona,Frank Rijkaard,Valencia,Salvador González Marco,Spotify Camp Nou,Alberto Undiano Mallenco,Valencia
+2007.0,69145,16,2007-12-15,0,3,Valencia,Ronald Koeman,Barcelona,Frank Rijkaard,Estadio de Mestalla,Eduardo Iturralde Gonzalez,Valencia
+2008.0,69225,15,2008-12-13,2,0,Barcelona,Josep Guardiola i Sala,Real Madrid,Juan de la Cruz Ramos Cano,Spotify Camp Nou,Luis Medina Cantalejo,Real Madrid
+2008.0,69212,6,2008-10-04,6,1,Barcelona,Josep Guardiola i Sala,Atlético Madrid,Javier Aguirre Onaindía,Spotify Camp Nou,Eduardo Iturralde Gonzalez,Atlético Madrid
+2008.0,69235,9,2008-11-01,1,4,Málaga,Antonio Tapia Flores,Barcelona,Josep Guardiola i Sala,Estadio La Rosaleda,Carlos Velasco Carballo,Málaga
+2008.0,69232,8,2008-10-25,5,0,Barcelona,,Almería,,Spotify Camp Nou,Alfonso Perez Burrull,Almería
+2008.0,69216,26,2009-03-07,2,0,Barcelona,Josep Guardiola i Sala,Athletic Club,Joaquín de Jesús Caparrós Camino,Spotify Camp Nou,Alberto Undiano Mallenco,Athletic Club
+2008.0,69209,21,2009-02-01,1,2,Racing Santander,Juan Ramón López Muñiz,Barcelona,Josep Guardiola i Sala,Campos de Sport de El Sardinero,David Fernández Borbalan,Racing Santander
+2008.0,69231,22,2009-02-08,3,1,Barcelona,Josep Guardiola i Sala,Sporting Gijón,Manuel Preciado Rebolledo,Spotify Camp Nou,Antonio Rubinos Perez,Sporting Gijón
+2008.0,69217,35,2009-05-10,3,3,Barcelona,Josep Guardiola i Sala,Villarreal,Manuel Luis Pellegrini Ripamonti,Spotify Camp Nou,Fernando Teixeira,Villarreal
+2008.0,69273,29,2009-04-04,0,1,Real Valladolid,José Luis Mendilibar Etxebarria,Barcelona,Josep Guardiola i Sala,Estadio Municipal José Zorrilla,Miguel Pérez,Real Valladolid
+2008.0,69222,30,2009-04-11,2,0,Barcelona,Josep Guardiola i Sala,Recreativo Huelva,Luis Lucas Alcaraz González,Spotify Camp Nou,Eduardo Iturralde Gonzalez,Recreativo Huelva
+2008.0,69223,31,2009-04-18,0,1,Getafe,Víctor Muñoz Manrique,Barcelona,Josep Guardiola i Sala,Coliseum Alfonso Pérez,Turienzo,Getafe
+2008.0,69195,23,2009-02-14,2,2,Real Betis,Francisco Chaparro Jara,Barcelona,Josep Guardiola i Sala,Estadio Benito Villamarín,Eduardo Iturralde Gonzalez,Real Betis
+2008.0,69251,33,2009-04-25,2,2,Valencia,Unai Emery Etxegoien,Barcelona,Josep Guardiola i Sala,Estadio de Mestalla,César Muñiz,Valencia
+2008.0,69185,25,2009-03-01,4,3,Atlético Madrid,Abel Resino Gómez,Barcelona,Josep Guardiola i Sala,Estadio Vicente Calderón,Bernardino Gonzalez,Atlético Madrid
+2008.0,69142,28,2009-03-22,6,0,Barcelona,Josep Guardiola i Sala,Málaga,Antonio Tapia Flores,Spotify Camp Nou,César Muñiz,Málaga
+2008.0,69139,24,2009-02-21,1,2,Barcelona,Josep Guardiola i Sala,Espanyol,Mauricio Roberto Pochettino Trossero,Spotify Camp Nou,Carlos Delgado,Espanyol
+2008.0,69189,20,2009-01-24,4,1,Barcelona,Josep Guardiola i Sala,CD Numancia de Soria,Sergije Krešić Juric,Spotify Camp Nou,Miguel Pérez,CD Numancia de Soria
+2008.0,69171,13,2008-11-29,0,3,Sevilla,Manuel Enrique Jiménez Jiménez,Barcelona,Josep Guardiola i Sala,Estadio Ramón Sánchez Pizjuán,Alberto Undiano Mallenco,Sevilla
+2008.0,69249,34,2009-05-02,2,6,Real Madrid,Juan de la Cruz Ramos Cano,Barcelona,Josep Guardiola i Sala,Estadio Santiago Bernabéu,Alberto Undiano Mallenco,Real Madrid
+2008.0,69215,2,2008-09-13,1,1,Barcelona,Josep Guardiola i Sala,Racing Santander,Juan Ramón López Muñiz,Spotify Camp Nou,Rafael Ramírez Domínguez,Racing Santander
+2008.0,69138,3,2008-09-21,1,6,Sporting Gijón,Manuel Preciado Rebolledo,Barcelona,Josep Guardiola i Sala,Estadio Municipal El Molinón,Carlos Megía Dávila,Sporting Gijón
+2008.0,69147,1,2008-08-31,1,0,CD Numancia de Soria,Sergije Krešić Juric,Barcelona,Josep Guardiola i Sala,Los Pajaritos,David Fernández Borbalan,CD Numancia de Soria
+2008.0,69177,27,2009-03-15,0,2,Almería,,Barcelona,,Power Horse Stadium – Estadio de los Juegos Mediterráneos,Manuel Enrique Mejuto Gonzalez,Almería
+2008.0,69207,4,2008-09-24,3,2,Barcelona,Josep Guardiola i Sala,Real Betis,Francisco Chaparro Jara,Spotify Camp Nou,Arturo Daudén Ibáñez,Real Betis
+2008.0,69228,16,2008-12-21,1,2,Villarreal,Manuel Luis Pellegrini Ripamonti,Barcelona,Josep Guardiola i Sala,Estadio de la Cerámica,Carlos Clos Gómez,Villarreal
+2008.0,69183,19,2009-01-17,5,0,Barcelona,Josep Guardiola i Sala,RC Deportivo La Coruña,Miguel Ángel Lotina Oruecheberría,Spotify Camp Nou,Julian Rodriguez Santiago,RC Deportivo La Coruña
+2008.0,69279,10,2008-11-08,6,0,Barcelona,Josep Guardiola i Sala,Real Valladolid,José Luis Mendilibar Etxebarria,Spotify Camp Nou,Fernando Teixeira,Real Valladolid
+2008.0,69285,11,2008-11-16,0,2,Recreativo Huelva,Luis Lucas Alcaraz González,Barcelona,Josep Guardiola i Sala,Estadio Nuevo Colombino,Miguel Pérez,Recreativo Huelva
+2008.0,69211,5,2008-09-27,1,2,Espanyol,Bartolomé Márquez López,Barcelona,Josep Guardiola i Sala,Estadi Olímpic Lluís Companys,Luis Medina Cantalejo,Espanyol
+2008.0,69230,18,2009-01-11,2,3,Osasuna,José Antonio Camacho Alfaro,Barcelona,Josep Guardiola i Sala,Estadio El Sadar,Fernando Teixeira,Osasuna
+2008.0,69149,14,2008-12-06,4,0,Barcelona,Josep Guardiola i Sala,Valencia,Unai Emery Etxegoien,Spotify Camp Nou,David Fernández Borbalan,Valencia
+2009.0,69243,18,2010-01-16,4,0,Barcelona,Josep Guardiola i Sala,Sevilla,Manuel Enrique Jiménez Jiménez,Spotify Camp Nou,Carlos Delgado,Sevilla
+2009.0,69241,36,2010-05-04,4,1,Barcelona,Josep Guardiola i Sala,Tenerife,José Luis Oltra Castañer,Spotify Camp Nou,Carlos Delgado,Tenerife
+2009.0,69239,37,2010-05-08,2,3,Sevilla,Antonio Álvarez,Barcelona,Josep Guardiola i Sala,Estadio Ramón Sánchez Pizjuán,Alberto Undiano Mallenco,Sevilla
+2009.0,69257,28,2010-03-24,2,0,Barcelona,Josep Guardiola i Sala,Osasuna,José Antonio Camacho Alfaro,Spotify Camp Nou,Carlos Velasco Carballo,Osasuna
+2009.0,69253,8,2009-10-25,6,1,Barcelona,Josep Guardiola i Sala,Real Zaragoza,Marcelino García Toral,Spotify Camp Nou,José Paradas,Real Zaragoza
+2009.0,69244,35,2010-05-01,1,4,Villarreal,Juan Carlos Garrido Fernández,Barcelona,Josep Guardiola i Sala,Estadio de la Cerámica,Fernando Teixeira,Villarreal
+2009.0,69277,9,2009-10-31,1,1,Osasuna,José Antonio Camacho Alfaro,Barcelona,Josep Guardiola i Sala,Estadio El Sadar,Antonio Rubinos Perez,Osasuna
+2009.0,69229,2,2009-09-12,0,2,Getafe,José Miguel González Martín del Campo,Barcelona,Josep Guardiola i Sala,Coliseum Alfonso Pérez,Eduardo Iturralde Gonzalez,Getafe
+2009.0,69219,17,2010-01-10,0,5,Tenerife,José Luis Oltra Castañer,Barcelona,Josep Guardiola i Sala,Estadio Heliodoro Rodríguez Lopéz,Miguel Pérez,Tenerife
+2009.0,69218,13,2009-12-05,1,3,RC Deportivo La Coruña,Miguel Ángel Lotina Oruecheberría,Barcelona,Josep Guardiola i Sala,Estadio Abanca-Riazor,David Fernández Borbalan,RC Deportivo La Coruña
+2009.0,69250,10,2009-11-07,4,2,Barcelona,Josep Guardiola i Sala,Mallorca,Gregorio Manzano Ballesteros,Spotify Camp Nou,Turienzo,Mallorca
+2009.0,69242,38,2010-05-16,4,0,Barcelona,Josep Guardiola i Sala,Real Valladolid,Javier Clemente Lazaro,Spotify Camp Nou,Miguel Pérez,Real Valladolid
+2009.0,69256,6,2009-10-03,1,0,Barcelona,,Almería,,Spotify Camp Nou,Carlos Velasco Carballo,Almería
+2009.0,69298,29,2010-03-27,0,1,Mallorca,Gregorio Manzano Ballesteros,Barcelona,Josep Guardiola i Sala,Estadi Mallorca Son Moix,David Fernández Borbalan,Mallorca
+2009.0,69259,31,2010-04-10,0,2,Real Madrid,Manuel Luis Pellegrini Ripamonti,Barcelona,Josep Guardiola i Sala,Estadio Santiago Bernabéu,Manuel Enrique Mejuto Gonzalez,Real Madrid
+2009.0,69224,26,2010-03-14,3,0,Barcelona,Josep Guardiola i Sala,Valencia,Unai Emery Etxegoien,Spotify Camp Nou,César Muñiz,Valencia
+2009.0,69210,19,2010-01-23,0,3,Real Valladolid,José Luis Mendilibar Etxebarria,Barcelona,Josep Guardiola i Sala,Estadio Municipal José Zorrilla,Rafael Ramírez Domínguez,Real Valladolid
+2009.0,69220,20,2010-01-30,0,1,Sporting Gijón,Manuel Preciado Rebolledo,Barcelona,Josep Guardiola i Sala,Estadio Municipal El Molinón,José Paradas,Sporting Gijón
+2009.0,69237,22,2010-02-14,2,1,Atlético Madrid,Enrique Sánchez Flores,Barcelona,Josep Guardiola i Sala,Estadio Vicente Calderón,Eduardo Iturralde Gonzalez,Atlético Madrid
+2009.0,69226,25,2010-03-06,2,2,Almería,Juan Manuel Lillo Díez,Barcelona,Josep Guardiola i Sala,Power Horse Stadium – Estadio de los Juegos Mediterráneos,Carlos Clos Gómez,Almería
+2009.0,69252,7,2009-10-17,0,0,Valencia,Unai Emery Etxegoien,Barcelona,Josep Guardiola i Sala,Estadio de Mestalla,Alfonso Perez Burrull,Valencia
+2009.0,69255,5,2009-09-26,0,2,Málaga,Juan Ramón López Muñiz,Barcelona,Josep Guardiola i Sala,Estadio La Rosaleda,Carlos Delgado,Málaga
+2009.0,69214,34,2010-04-24,3,1,Barcelona,Josep Guardiola i Sala,Xerez,Néstor Raúl Gorosito,Spotify Camp Nou,César Muñiz,Xerez
+2009.0,69262,12,2009-11-29,1,0,Barcelona,Josep Guardiola i Sala,Real Madrid,Manuel Luis Pellegrini Ripamonti,Spotify Camp Nou,Alberto Undiano Mallenco,Real Madrid
+2009.0,69240,21,2010-02-06,2,1,Barcelona,Josep Guardiola i Sala,Getafe,José Miguel González Martín del Campo,Spotify Camp Nou,Fernando Teixeira,Getafe
+2009.0,69233,23,2010-02-20,4,0,Barcelona,Josep Guardiola i Sala,Racing Santander,Miguel Ángel Portugal Vicario,Spotify Camp Nou,David Fernández Borbalan,Racing Santander
+2009.0,69213,33,2010-04-17,0,0,Espanyol,Mauricio Roberto Pochettino Trossero,Barcelona,Josep Guardiola i Sala,RCDE Stadium,Alberto Undiano Mallenco,Espanyol
+2009.0,69238,24,2010-02-27,2,1,Barcelona,Josep Guardiola i Sala,Málaga,Juan Ramón López Muñiz,Spotify Camp Nou,Antonio Rubinos Perez,Málaga
+2009.0,69267,15,2009-12-02,0,2,Xerez,José Ángel Ziganda Lacunza,Barcelona,Josep Guardiola i Sala,Estadio Municipal de Chapín,Carlos Velasco Carballo,Xerez
+2009.0,69288,11,2009-11-21,1,1,Athletic Club,Joaquín de Jesús Caparrós Camino,Barcelona,Josep Guardiola i Sala,Estadio San Mamés,Fernando Teixeira,Athletic Club
+2009.0,69254,4,2009-09-22,1,4,Racing Santander,Juan Carlos Mandiá Lorenzo,Barcelona,Josep Guardiola i Sala,Campos de Sport de El Sardinero,Antonio Miguel Mateu Lahoz,Racing Santander
+2009.0,69292,3,2009-09-19,5,2,Barcelona,Josep Guardiola i Sala,Atlético Madrid,Abel Resino Gómez,Spotify Camp Nou,Manuel Enrique Mejuto Gonzalez,Atlético Madrid
+2009.0,69227,27,2010-03-21,2,4,Real Zaragoza,José Aurelio Gay López,Barcelona,Josep Guardiola i Sala,Estadio de la Romareda,Carlos Delgado,Real Zaragoza
+2009.0,69247,30,2010-04-03,4,1,Barcelona,Josep Guardiola i Sala,Athletic Club,Joaquín de Jesús Caparrós Camino,Spotify Camp Nou,Antonio Miguel Mateu Lahoz,Athletic Club
+2009.0,69221,32,2010-04-14,3,0,Barcelona,Josep Guardiola i Sala,RC Deportivo La Coruña,Miguel Ángel Lotina Oruecheberría,Spotify Camp Nou,José Paradas,RC Deportivo La Coruña
+2010.0,69276,22,2011-02-05,3,0,Barcelona,Josep Guardiola i Sala,Atlético Madrid,Enrique Sánchez Flores,Spotify Camp Nou,Turienzo,Atlético Madrid
+2010.0,69304,30,2011-04-02,0,1,Villarreal,Juan Carlos Garrido Fernández,Barcelona,Josep Guardiola i Sala,Estadio de la Cerámica,Rafael Ramírez Domínguez,Villarreal
+2010.0,69307,14,2010-12-04,0,3,Osasuna,José Antonio Camacho Alfaro,Barcelona,Josep Guardiola i Sala,Estadio El Sadar,Fernando Teixeira,Osasuna
+2010.0,69271,33,2011-04-23,2,0,Barcelona,Josep Guardiola i Sala,Osasuna,José Luis Mendilibar Etxebarria,Spotify Camp Nou,Carlos Delgado,Osasuna
+2010.0,69305,31,2011-04-09,3,1,Barcelona,,Almería,,Spotify Camp Nou,Miguel Ayza,Almería
+2010.0,69278,19,2011-01-16,4,1,Barcelona,Josep Guardiola i Sala,Málaga,Manuel Luis Pellegrini Ripamonti,Spotify Camp Nou,José Luis González González,Málaga
+2010.0,69275,16,2010-12-18,1,5,Espanyol,Mauricio Roberto Pochettino Trossero,Barcelona,Josep Guardiola i Sala,RCDE Stadium,Alberto Undiano Mallenco,Espanyol
+2010.0,69295,20,2011-01-22,3,0,Barcelona,Josep Guardiola i Sala,Racing Santander,Miguel Ángel Portugal Vicario,Spotify Camp Nou,Ignacio Iglesias Villanueva,Racing Santander
+2010.0,69270,10,2010-11-07,1,3,Getafe,José Miguel González Martín del Campo,Barcelona,Josep Guardiola i Sala,Coliseum Alfonso Pérez,Miguel Ayza,Getafe
+2010.0,69303,29,2011-03-19,2,1,Barcelona,Josep Guardiola i Sala,Getafe,José Miguel González Martín del Campo,Spotify Camp Nou,César Muñiz,Getafe
+2010.0,69245,32,2011-04-16,1,1,Real Madrid,José Mario Felix dos Santos Mourinho,Barcelona,Josep Guardiola i Sala,Estadio Santiago Bernabéu,César Muñiz,Real Madrid
+2010.0,69287,2,2010-09-11,0,2,Barcelona,Josep Guardiola i Sala,Hércules,Esteban Vigo Benítez,Spotify Camp Nou,Carlos Velasco Carballo,Hércules
+2010.0,69296,21,2011-01-29,0,3,Hércules,Esteban Vigo Benítez,Barcelona,Josep Guardiola i Sala,Estadio José Rico Pérez,David Fernández Borbalan,Hércules
+2010.0,69260,7,2010-10-16,2,1,Barcelona,Josep Guardiola i Sala,Valencia,Unai Emery Etxegoien,Spotify Camp Nou,Fernando Teixeira,Valencia
+2010.0,69269,3,2010-09-19,1,2,Atlético Madrid,Enrique Sánchez Flores,Barcelona,Josep Guardiola i Sala,Estadio Vicente Calderón,David Fernández Borbalan,Atlético Madrid
+2010.0,69246,34,2011-04-30,2,1,Real Sociedad,Martín Lasarte Arrospide,Barcelona,Josep Guardiola i Sala,Reale Arena,Fernando Teixeira,Real Sociedad
+2010.0,69302,15,2010-12-12,5,0,Barcelona,Josep Guardiola i Sala,Real Sociedad,Martín Lasarte Arrospide,Spotify Camp Nou,David Fernández Borbalan,Real Sociedad
+2010.0,69282,24,2011-02-20,2,1,Barcelona,Josep Guardiola i Sala,Athletic Club,Joaquín de Jesús Caparrós Camino,Spotify Camp Nou,Rafael Ramírez Domínguez,Athletic Club
+2010.0,69274,26,2011-03-02,0,1,Valencia,Unai Emery Etxegoien,Barcelona,Josep Guardiola i Sala,Estadio de Mestalla,Eduardo Iturralde Gonzalez,Valencia
+2010.0,69283,25,2011-02-26,0,3,Mallorca,Michael Laudrup,Barcelona,Josep Guardiola i Sala,Estadi Mallorca Son Moix,Carlos Velasco Carballo,Mallorca
+2010.0,69280,18,2011-01-08,0,4,RC Deportivo La Coruña,Miguel Ángel Lotina Oruecheberría,Barcelona,Josep Guardiola i Sala,Estadio Abanca-Riazor,Carlos Delgado,RC Deportivo La Coruña
+2010.0,69286,1,2010-08-29,0,3,Racing Santander,Miguel Ángel Portugal Vicario,Barcelona,Josep Guardiola i Sala,Campos de Sport de El Sardinero,Carlos Delgado,Racing Santander
+2010.0,69291,28,2011-03-13,1,1,Sevilla,Gregorio Manzano Ballesteros,Barcelona,Josep Guardiola i Sala,Estadio Ramón Sánchez Pizjuán,Miguel Pérez,Sevilla
+2010.0,69236,6,2010-10-03,1,1,Barcelona,Josep Guardiola i Sala,Mallorca,Michael Laudrup,Spotify Camp Nou,Alberto Undiano Mallenco,Mallorca
+2010.0,69234,35,2011-05-08,2,0,Barcelona,Josep Guardiola i Sala,Espanyol,Mauricio Roberto Pochettino Trossero,Spotify Camp Nou,David Fernández Borbalan,Espanyol
+2010.0,69272,36,2011-05-11,1,1,Levante UD,Luis García Plaza,Barcelona,Josep Guardiola i Sala,Estadio Ciudad de Valencia,José Paradas,Levante UD
+2010.0,69308,11,2010-11-13,3,1,Barcelona,Josep Guardiola i Sala,Villarreal,Juan Carlos Garrido Fernández,Spotify Camp Nou,Carlos Delgado,Villarreal
+2010.0,69299,13,2010-11-29,5,0,Barcelona,Josep Guardiola i Sala,Real Madrid,José Mario Felix dos Santos Mourinho,Spotify Camp Nou,Eduardo Iturralde Gonzalez,Real Madrid
+2010.0,69300,27,2011-03-05,1,0,Barcelona,Josep Guardiola i Sala,Real Zaragoza,Javier Aguirre Onaindía,Spotify Camp Nou,Fernando Teixeira,Real Zaragoza
+2010.0,69289,9,2010-10-30,5,0,Barcelona,Josep Guardiola i Sala,Sevilla,Gregorio Manzano Ballesteros,Spotify Camp Nou,Turienzo,Sevilla
+2010.0,69263,8,2010-10-23,0,2,Real Zaragoza,José Aurelio Gay López,Barcelona,Josep Guardiola i Sala,Estadio de la Romareda,Miguel Pérez,Real Zaragoza
+2010.0,69306,12,2010-11-20,0,8,Almería,Juan Manuel Lillo Díez,Barcelona,Josep Guardiola i Sala,Power Horse Stadium – Estadio de los Juegos Mediterráneos,César Muñiz,Almería
+2010.0,69248,23,2011-02-12,1,1,Sporting Gijón,Manuel Preciado Rebolledo,Barcelona,Josep Guardiola i Sala,Estadio Municipal El Molinón,Miguel Pérez,Sporting Gijón
+2011.0,69328,24,2012-02-19,5,1,Barcelona,Josep Guardiola i Sala,Valencia,Unai Emery Etxegoien,Spotify Camp Nou,Turienzo,Valencia
+2011.0,69329,9,2011-10-22,0,0,Barcelona,Josep Guardiola i Sala,Sevilla,Marcelino García Toral,Spotify Camp Nou,Eduardo Iturralde Gonzalez,Sevilla
+2011.0,70219,32,2012-04-07,1,4,Real Zaragoza,Manuel Enrique Jiménez Jiménez,Barcelona,Josep Guardiola i Sala,Estadio de la Romareda,Turienzo,Real Zaragoza
+2011.0,69331,13,2011-11-19,4,0,Barcelona,Josep Guardiola i Sala,Real Zaragoza,Javier Aguirre Onaindía,Spotify Camp Nou,Alberto Undiano Mallenco,Real Zaragoza
+2011.0,69337,25,2012-02-26,1,2,Atlético Madrid,Diego Pablo Simeone,Barcelona,Josep Guardiola i Sala,Estadio Vicente Calderón,Miguel Pérez,Atlético Madrid
+2011.0,69322,27,2012-03-11,0,2,Racing Santander,Álvaro Cervera Díaz,Barcelona,Josep Guardiola i Sala,Campos de Sport de El Sardinero,,Racing Santander
+2011.0,69316,22,2012-02-04,2,1,Barcelona,Josep Guardiola i Sala,Real Sociedad,Philippe Jacques William Montanier,Spotify Camp Nou,Carlos Clos Gómez,Real Sociedad
+2011.0,69332,17,2011-11-29,4,0,Barcelona,Josep Guardiola i Sala,Rayo Vallecano,José Ramón Sandoval Huertas,Spotify Camp Nou,Miguel Pérez,Rayo Vallecano
+2011.0,69335,1,2012-01-22,1,4,Málaga,Manuel Luis Pellegrini Ripamonti,Barcelona,Josep Guardiola i Sala,Estadio La Rosaleda,Alberto Undiano Mallenco,Málaga
+2011.0,69330,12,2011-11-06,2,2,Athletic Club,Marcelo Alberto Bielsa Caldera,Barcelona,Josep Guardiola i Sala,Estadio San Mamés,José Paradas,Athletic Club
+2011.0,69297,6,2011-09-24,5,0,Barcelona,Josep Guardiola i Sala,Atlético Madrid,Gregorio Manzano Ballesteros,Spotify Camp Nou,Carlos Delgado,Atlético Madrid
+2011.0,69325,30,2012-03-24,0,2,Mallorca,Joaquín de Jesús Caparrós Camino,Barcelona,Josep Guardiola i Sala,Estadi Mallorca Son Moix,Miguel Ayza,Mallorca
+2011.0,69324,35,2012-04-21,1,2,Barcelona,Josep Guardiola i Sala,Real Madrid,José Mario Felix dos Santos Mourinho,Spotify Camp Nou,Alberto Undiano Mallenco,Real Madrid
+2011.0,70225,29,2012-03-20,5,3,Barcelona,Josep Guardiola i Sala,Granada,Abel Resino Gómez,Spotify Camp Nou,José Teixeira,Granada
+2011.0,69293,8,2011-10-15,3,0,Barcelona,Josep Guardiola i Sala,Racing Santander,Héctor Raúl Cúper,Spotify Camp Nou,Miguel Ayza,Racing Santander
+2011.0,70223,5,2011-09-21,2,2,Valencia,Unai Emery Etxegoien,Barcelona,Josep Guardiola i Sala,Estadio de Mestalla,Carlos Velasco Carballo,Valencia
+2011.0,69333,15,2011-12-03,5,0,Barcelona,Josep Guardiola i Sala,Levante UD,Juan Ignacio Martínez Jiménez,Spotify Camp Nou,José Teixeira,Levante UD
+2011.0,69264,3,2011-09-10,2,2,Real Sociedad,Philippe Jacques William Montanier,Barcelona,Josep Guardiola i Sala,Reale Arena,Antonio Miguel Mateu Lahoz,Real Sociedad
+2011.0,69343,33,2012-04-10,4,0,Barcelona,Josep Guardiola i Sala,Getafe,Luis García Plaza,Spotify Camp Nou,José Luis González González,Getafe
+2011.0,69340,20,2012-05-02,4,1,Barcelona,Josep Guardiola i Sala,Málaga,Manuel Luis Pellegrini Ripamonti,Spotify Camp Nou,Turienzo,Málaga
+2011.0,69265,7,2011-10-02,0,1,Sporting Gijón,Manuel Preciado Rebolledo,Barcelona,Josep Guardiola i Sala,Estadio Municipal El Molinón,Carlos Clos Gómez,Sporting Gijón
+2011.0,69319,38,2012-05-12,2,2,Real Betis,José Mel Pérez,Barcelona,Josep Guardiola i Sala,Estadio Benito Villamarín,Miguel Ayza,Real Betis
+2011.0,69334,16,2011-12-10,1,3,Real Madrid,José Mario Felix dos Santos Mourinho,Barcelona,Josep Guardiola i Sala,Estadio Santiago Bernabéu,David Fernández Borbalan,Real Madrid
+2011.0,69327,19,2012-01-15,4,2,Barcelona,Josep Guardiola i Sala,Real Betis,José Mel Pérez,Spotify Camp Nou,Ignacio Iglesias Villanueva,Real Betis
+2011.0,69315,14,2011-11-26,1,0,Getafe,Luis García Plaza,Barcelona,Josep Guardiola i Sala,Coliseum Alfonso Pérez,Fernando Teixeira,Getafe
+2011.0,69336,23,2012-02-11,3,2,Osasuna,José Luis Mendilibar Etxebarria,Barcelona,Josep Guardiola i Sala,Estadio El Sadar,José Paradas,Osasuna
+2011.0,69326,28,2012-03-17,0,2,Sevilla,José Miguel González Martín del Campo,Barcelona,Josep Guardiola i Sala,Estadio Ramón Sánchez Pizjuán,José Luis González González,Sevilla
+2011.0,69268,2,2011-08-29,5,0,Barcelona,Josep Guardiola i Sala,Villarreal,Juan Carlos Garrido Fernández,Spotify Camp Nou,Turienzo,Villarreal
+2011.0,69320,37,2012-05-05,4,0,Barcelona,Josep Guardiola i Sala,Espanyol,Mauricio Roberto Pochettino Trossero,Spotify Camp Nou,Fernando Teixeira,Espanyol
+2011.0,69312,18,2012-01-08,1,1,Espanyol,Mauricio Roberto Pochettino Trossero,Barcelona,Josep Guardiola i Sala,RCDE Stadium,Turienzo,Espanyol
+2011.0,69314,11,2011-10-29,5,0,Barcelona,Josep Guardiola i Sala,Mallorca,Joaquín de Jesús Caparrós Camino,Spotify Camp Nou,Pedro Jesús Pérez Montero,Mallorca
+2011.0,69318,10,2011-10-25,0,1,Granada,Fabriciano González Penelas,Barcelona,Josep Guardiola i Sala,Estadio Nuevo Los Cármenes,César Muñiz,Granada
+2011.0,69338,21,2012-01-28,0,0,Villarreal,José Francisco Molina Jiménez ,Barcelona,Josep Guardiola i Sala,Estadio de la Cerámica,José Teixeira,Villarreal
+2011.0,70220,4,2011-09-17,8,0,Barcelona,Josep Guardiola i Sala,Osasuna,José Luis Mendilibar Etxebarria,Spotify Camp Nou,César Muñiz,Osasuna
+2011.0,70224,36,2012-04-29,0,7,Rayo Vallecano,José Ramón Sandoval Huertas,Barcelona,Josep Guardiola i Sala,Estadio de Vallecas,Carlos Delgado,Rayo Vallecano
+2011.0,70221,34,2012-04-14,1,2,Levante UD,Juan Ignacio Martínez Jiménez,Barcelona,Josep Guardiola i Sala,Estadio Ciudad de Valencia,José Teixeira,Levante UD
+2011.0,69323,31,2012-03-31,2,0,Barcelona,Josep Guardiola i Sala,Athletic Club,Marcelo Alberto Bielsa Caldera,Spotify Camp Nou,Antonio Miguel Mateu Lahoz,Athletic Club
+2012.0,266015,17,2012-12-22,1,3,Real Valladolid,,Barcelona,,Estadio Municipal José Zorrilla,Carlos Clos Gómez,Real Valladolid
+2012.0,70270,5,2012-09-22,2,0,Barcelona,,Granada,,Spotify Camp Nou,,Granada
+2012.0,70281,34,2013-05-05,4,2,Barcelona,,Real Betis,,Spotify Camp Nou,Carlos Clos Gómez,Real Betis
+2012.0,70308,10,2012-11-03,3,1,Barcelona,,Celta Vigo,,Spotify Camp Nou,David Fernández Borbalan,Celta Vigo
+2012.0,70282,22,2013-02-03,1,1,Valencia,,Barcelona,,Estadio de Mestalla,José Luis González González,Valencia
+2012.0,266724,11,2012-11-11,2,4,Mallorca,,Barcelona,,Estadi Mallorca Son Moix,Ignacio Iglesias Villanueva,Mallorca
+2012.0,70272,26,2013-03-02,2,1,Real Madrid,,Barcelona,,Estadio Santiago Bernabéu,Miguel Pérez,Real Madrid
+2012.0,70304,8,2012-10-20,4,5,RC Deportivo La Coruña,,Barcelona,,Estadio Abanca-Riazor,José Paradas,RC Deportivo La Coruña
+2012.0,70280,13,2012-11-25,0,4,Levante UD,,Barcelona,,Estadio Ciudad de Valencia,Pedro Jesús Pérez Montero,Levante UD
+2012.0,70296,16,2012-12-16,4,1,Barcelona,,Atlético Madrid,,Spotify Camp Nou,Miguel Pérez,Atlético Madrid
+2012.0,70297,23,2013-02-10,6,1,Barcelona,,Getafe,,Spotify Camp Nou,Ignacio Iglesias Villanueva,Getafe
+2012.0,266433,18,2013-01-06,4,0,Barcelona,,Espanyol,,Spotify Camp Nou,Jesús Gil Manzano,Espanyol
+2012.0,70256,29,2013-03-30,2,2,Celta Vigo,,Barcelona,,Abanca-Balaídos,Antonio Miguel Mateu Lahoz,Celta Vigo
+2012.0,70259,1,2012-08-19,5,1,Barcelona,,Real Sociedad,,Spotify Camp Nou,José Luis González González,Real Sociedad
+2012.0,70260,21,2013-01-27,5,1,Barcelona,,Osasuna,,Spotify Camp Nou,Fernando Teixeira,Osasuna
+2012.0,70263,14,2012-12-01,5,1,Barcelona,,Athletic Club,,Spotify Camp Nou,Antonio Miguel Mateu Lahoz,Athletic Club
+2012.0,70276,9,2012-10-27,0,5,Rayo Vallecano,Francisco Jémez Martín,Barcelona,Francesc Vilanova i Bayo,Estadio de Vallecas,Miguel Pérez,Rayo Vallecano
+2012.0,70287,20,2013-01-19,3,2,Real Sociedad,,Barcelona,,Reale Arena,Alberto Undiano Mallenco,Real Sociedad
+2012.0,70284,35,2013-05-12,1,2,Atlético Madrid,,Barcelona,,Estadio Vicente Calderón,Pedro Jesús Pérez Montero,Atlético Madrid
+2012.0,70275,6,2012-09-29,2,3,Sevilla,,Barcelona,,Estadio Ramón Sánchez Pizjuán,Antonio Miguel Mateu Lahoz,Sevilla
+2012.0,70286,3,2012-09-02,1,0,Barcelona,,Valencia,,Spotify Camp Nou,Miguel Pérez,Valencia
+2012.0,70309,12,2012-11-17,3,1,Barcelona,,Real Zaragoza,,Spotify Camp Nou,Miguel Ayza,Real Zaragoza
+2012.0,70300,7,2012-10-07,2,2,Barcelona,,Real Madrid,,Spotify Camp Nou,Carlos Delgado,Real Madrid
+2012.0,70295,15,2012-12-09,1,2,Real Betis,,Barcelona,,Estadio Benito Villamarín,Carlos Velasco Carballo,Real Betis
+2012.0,70307,28,2013-03-17,3,1,Barcelona,,Rayo Vallecano,,Spotify Camp Nou,José Luis González González,Rayo Vallecano
+2012.0,70305,27,2013-03-09,2,0,Barcelona,,RC Deportivo La Coruña,,Spotify Camp Nou,Pedro Jesús Pérez Montero,RC Deportivo La Coruña
+2012.0,266827,19,2013-01-13,1,3,Málaga,,Barcelona,,Estadio La Rosaleda,Carlos Delgado,Málaga
+2012.0,267502,33,2013-04-27,2,2,Athletic Club,Marcelo Alberto Bielsa Caldera,Barcelona,Francesc Vilanova i Bayo,Estadio San Mamés,Ignacio Iglesias Villanueva,Athletic Club
+2012.0,70271,25,2013-02-23,2,1,Barcelona,,Sevilla,,Spotify Camp Nou,Carlos Velasco Carballo,Sevilla
+2012.0,70294,24,2013-02-16,1,2,Granada,,Barcelona,,Estadio Nuevo Los Cármenes,,Granada
+2012.0,70262,2,2012-08-26,1,2,Osasuna,,Barcelona,,Estadio El Sadar,César Muñiz,Osasuna
+2012.0,70292,4,2012-09-15,1,4,Getafe,,Barcelona,,Coliseum Alfonso Pérez,Fernando Teixeira,Getafe
+2013.0,267368,32,2014-04-05,3,1,Barcelona,,Real Betis,,Spotify Camp Nou,Eduardo Prieto Iglesias,Real Betis
+2013.0,70301,4,2013-09-14,3,2,Barcelona,Gerardo Daniel Martino,Sevilla,Unai Emery Etxegoien,Spotify Camp Nou,César Muñiz,Sevilla
+2013.0,70298,3,2013-09-01,2,3,Valencia,Miroslav Đukić,Barcelona,Gerardo Daniel Martino,Estadio de Mestalla,José Teixeira,Valencia
+2013.0,70302,5,2013-09-21,0,4,Rayo Vallecano,Francisco Jémez Martín,Barcelona,Gerardo Daniel Martino,Estadio de Vallecas,Carlos Clos Gómez,Rayo Vallecano
+2013.0,70291,21,2014-01-26,3,0,Barcelona,Gerardo Daniel Martino,Málaga,Bernd Schuster,Spotify Camp Nou,Carlos Clos Gómez,Málaga
+2013.0,267138,33,2014-04-12,1,0,Granada,Luis Lucas Alcaraz González,Barcelona,Gerardo Daniel Martino,Estadio Nuevo Los Cármenes,Carlos Delgado,Granada
+2013.0,267520,6,2013-09-24,4,1,Barcelona,Gerardo Daniel Martino,Real Sociedad,Jagoba Arrasate Elustondo,Spotify Camp Nou,Jesús Gil Manzano,Real Sociedad
+2013.0,70289,35,2014-04-27,2,3,Villarreal,Marcelino García Toral,Barcelona,Gerardo Daniel Martino,Estadio de la Cerámica,David Fernández Borbalan,Villarreal
+2013.0,266066,26,2014-03-02,4,1,Barcelona,Gerardo Daniel Martino,Almería,Francisco Javier Rodríguez Vílchez,Spotify Camp Nou,,Almería
+2013.0,267675,23,2014-02-09,1,4,Sevilla,Unai Emery Etxegoien,Barcelona,Gerardo Daniel Martino,Estadio Ramón Sánchez Pizjuán,José Teixeira,Sevilla
+2013.0,70288,20,2014-01-19,1,1,Levante UD,Joaquín de Jesús Caparrós Camino,Barcelona,Gerardo Daniel Martino,Estadio Ciudad de Valencia,,Levante UD
+2013.0,266074,28,2014-03-16,7,0,Barcelona,Gerardo Daniel Martino,Osasuna,Javier Gracia Carlos,Spotify Camp Nou,José Teixeira,Osasuna
+2013.0,267567,34,2014-04-20,2,1,Barcelona,Gerardo Daniel Martino,Athletic Club,Ernesto Valverde Tejedor,Spotify Camp Nou,,Athletic Club
+2013.0,266201,37,2014-05-11,0,0,Elche,Francisco Escriba Segura,Barcelona,Gerardo Daniel Martino,Estadio Manuel Martínez Valero,Fernando Teixeira,Elche
+2013.0,266274,30,2014-03-26,3,0,Barcelona,Gerardo Daniel Martino,Celta Vigo,Luis Enrique Martínez García,Spotify Camp Nou,Miguel Ayza,Celta Vigo
+2013.0,70293,10,2013-10-26,2,1,Barcelona,Gerardo Daniel Martino,Real Madrid,Carlo Ancelotti,Spotify Camp Nou,Alberto Undiano Mallenco,Real Madrid
+2013.0,265918,24,2014-02-15,6,0,Barcelona,Gerardo Daniel Martino,Rayo Vallecano,Francisco Jémez Martín,Spotify Camp Nou,,Rayo Vallecano
+2013.0,70277,1,2013-08-18,7,0,Barcelona,Gerardo Daniel Martino,Levante UD,Joaquín de Jesús Caparrós Camino,Spotify Camp Nou,,Levante UD
+2013.0,70283,12,2013-11-01,1,0,Barcelona,Gerardo Daniel Martino,Espanyol,Javier Aguirre Onaindía,Spotify Camp Nou,Carlos Velasco Carballo,Espanyol
+2013.0,70306,31,2014-03-29,0,1,Espanyol,Javier Aguirre Onaindía,Barcelona,Gerardo Daniel Martino,RCDE Stadium,Carlos Clos Gómez,Espanyol
+2013.0,266256,38,2014-05-17,1,1,Barcelona,Gerardo Daniel Martino,Atlético Madrid,Diego Pablo Simeone,Spotify Camp Nou,Antonio Miguel Mateu Lahoz,Atlético Madrid
+2013.0,266613,22,2014-02-01,2,3,Barcelona,Gerardo Daniel Martino,Valencia,Juan Antonio Pizzi Torroja,Spotify Camp Nou,Pedro Jesús Pérez Montero,Valencia
+2013.0,266491,36,2014-05-03,2,2,Barcelona,Gerardo Daniel Martino,Getafe,Cosmin Marius Contra,Spotify Camp Nou,José Teixeira,Getafe
+2013.0,265830,19,2014-01-11,0,0,Atlético Madrid,Diego Pablo Simeone,Barcelona,Gerardo Daniel Martino,Estadio Vicente Calderón,Antonio Miguel Mateu Lahoz,Atlético Madrid
+2013.0,265857,29,2014-03-23,3,4,Real Madrid,Carlo Ancelotti,Barcelona,Gerardo Daniel Martino,Estadio Santiago Bernabéu,Alberto Undiano Mallenco,Real Madrid
+2013.0,266883,13,2013-11-10,1,4,Real Betis,José Mel Pérez,Barcelona,Gerardo Daniel Martino,Estadio Benito Villamarín,José Luis González González,Real Betis
+2013.0,266603,27,2014-03-08,1,0,Real Valladolid,Juan Ignacio Martínez Jiménez,Barcelona,Gerardo Daniel Martino,Estadio Municipal José Zorrilla,,Real Valladolid
+2013.0,265837,25,2014-02-22,3,1,Real Sociedad,Jagoba Arrasate Elustondo,Barcelona,Gerardo Daniel Martino,Reale Arena,David Fernández Borbalan,Real Sociedad
+2013.0,266462,9,2013-10-19,0,0,Osasuna,Javier Gracia Carlos,Barcelona,Gerardo Daniel Martino,Estadio El Sadar,Pedro Jesús Pérez Montero,Osasuna
+2013.0,267192,11,2013-10-29,0,3,Celta Vigo,Luis Enrique Martínez García,Barcelona,Gerardo Daniel Martino,Abanca-Balaídos,David Fernández Borbalan,Celta Vigo
+2013.0,266420,7,2013-09-28,0,2,Almería,Francisco Javier Rodríguez Vílchez,Barcelona,Gerardo Daniel Martino,Power Horse Stadium – Estadio de los Juegos Mediterráneos,Miguel Ayza,Almería
+2014.0,267183,28,2015-03-22,2,1,Barcelona,Luis Enrique Martínez García,Real Madrid,Carlo Ancelotti,Spotify Camp Nou,Antonio Miguel Mateu Lahoz,Real Madrid
+2014.0,265835,12,2014-11-22,5,1,Barcelona,Luis Enrique Martínez García,Sevilla,Unai Emery Etxegoien,Spotify Camp Nou,,Sevilla
+2014.0,266838,5,2014-09-24,0,0,Málaga,Javier Gracia Carlos,Barcelona,Luis Enrique Martínez García,Estadio La Rosaleda,,Málaga
+2014.0,265963,34,2015-04-28,6,0,Barcelona,Luis Enrique Martínez García,Getafe,Pablo Franco Martín,Spotify Camp Nou,David Fernández Borbalan,Getafe
+2014.0,266117,6,2014-09-27,6,0,Barcelona,Luis Enrique Martínez García,Granada,Joaquín de Jesús Caparrós Camino,Spotify Camp Nou,,Granada
+2014.0,266916,26,2015-03-08,6,1,Barcelona,Luis Enrique Martínez García,Rayo Vallecano,Francisco Jémez Martín,Spotify Camp Nou,Jesús Gil Manzano,Rayo Vallecano
+2014.0,267197,38,2015-05-23,2,2,Barcelona,Luis Enrique Martínez García,RC Deportivo La Coruña,Víctor Sánchez del Amo,Spotify Camp Nou,Carlos Clos Gómez,RC Deportivo La Coruña
+2014.0,70264,15,2014-12-13,0,0,Getafe,Cosmin Marius Contra,Barcelona,Luis Enrique Martínez García,Coliseum Alfonso Pérez,,Getafe
+2014.0,70273,3,2014-09-13,2,0,Barcelona,Luis Enrique Martínez García,Athletic Club,Ernesto Valverde Tejedor,Spotify Camp Nou,David Fernández Borbalan,Athletic Club
+2014.0,267301,10,2014-11-01,0,1,Barcelona,Luis Enrique Martínez García,Celta Vigo,Manuel Eduardo Berizzo,Spotify Camp Nou,,Celta Vigo
+2014.0,265896,8,2014-10-18,3,0,Barcelona,Luis Enrique Martínez García,Eibar,Gaizka Garitano Aguirre,Spotify Camp Nou,José Teixeira,Eibar
+2014.0,265866,35,2015-05-02,0,8,Córdoba CF,José Antonio Romero Morilla,Barcelona,Luis Enrique Martínez García,Estadio Nuevo Arcángel,Carlos Clos Gómez,Córdoba CF
+2014.0,267400,30,2015-04-08,4,0,Barcelona,,Almería,,Spotify Camp Nou,,Almería
+2014.0,266406,2,2014-08-31,0,1,Villarreal,Marcelino García Toral,Barcelona,Luis Enrique Martínez García,Estadio de la Cerámica,Carlos Velasco Carballo,Villarreal
+2014.0,267085,9,2014-10-25,3,1,Real Madrid,Carlo Ancelotti,Barcelona,Luis Enrique Martínez García,Estadio Santiago Bernabéu,Jesús Gil Manzano,Real Madrid
+2014.0,267561,7,2014-10-04,0,2,Rayo Vallecano,Francisco Jémez Martín,Barcelona,Luis Enrique Martínez García,Estadio de Vallecas,Antonio Miguel Mateu Lahoz,Rayo Vallecano
+2014.0,266148,24,2015-02-21,0,1,Barcelona,Luis Enrique Martínez García,Málaga,Javier Gracia Carlos,Spotify Camp Nou,,Málaga
+2014.0,266045,36,2015-05-09,2,0,Barcelona,Luis Enrique Martínez García,Real Sociedad,David Moyes,Spotify Camp Nou,Ignacio Iglesias Villanueva,Real Sociedad
+2014.0,70303,18,2015-01-11,3,1,Barcelona,Luis Enrique Martínez García,Atlético Madrid,Diego Pablo Simeone,Spotify Camp Nou,Alberto Undiano Mallenco,Atlético Madrid
+2014.0,266240,17,2015-01-04,1,0,Real Sociedad,David Moyes,Barcelona,Luis Enrique Martínez García,Reale Arena,,Real Sociedad
+2014.0,267597,21,2015-02-01,3,2,Barcelona,Luis Enrique Martínez García,Villarreal,Marcelino García Toral,Spotify Camp Nou,,Villarreal
+2014.0,266794,20,2015-01-24,0,6,Elche,Francisco Escriba Segura,Barcelona,Luis Enrique Martínez García,Estadio Manuel Martínez Valero,Carlos Clos Gómez,Elche
+2014.0,267343,25,2015-02-28,1,3,Granada,Abel Resino Gómez,Barcelona,Luis Enrique Martínez García,Estadio Nuevo Los Cármenes,,Granada
+2014.0,266631,37,2015-05-17,0,1,Atlético Madrid,Diego Pablo Simeone,Barcelona,Luis Enrique Martínez García,Estadio Vicente Calderón,Alberto Undiano Mallenco,Atlético Madrid
+2014.0,266320,14,2014-12-07,5,1,Barcelona,Luis Enrique Martínez García,Espanyol,Sergio González Soriano,Spotify Camp Nou,Ignacio Iglesias Villanueva,Espanyol
+2014.0,266230,19,2015-01-18,0,4,RC Deportivo La Coruña,Victor Fernández Braulio,Barcelona,Luis Enrique Martínez García,Estadio Abanca-Riazor,,RC Deportivo La Coruña
+2014.0,266525,32,2015-04-18,2,0,Barcelona,Luis Enrique Martínez García,Valencia,Nuno Herlander Simões Espírito Santo,Spotify Camp Nou,José Luis González González,Valencia
+2014.0,266560,13,2014-11-30,0,1,Valencia,Nuno Herlander Simões Espírito Santo,Barcelona,Luis Enrique Martínez García,Estadio de Mestalla,David Fernández Borbalan,Valencia
+2014.0,266846,16,2014-12-20,5,0,Barcelona,Luis Enrique Martínez García,Córdoba CF,Miroslav Đukić,Spotify Camp Nou,Antonio Miguel Mateu Lahoz,Córdoba CF
+2014.0,266531,33,2015-04-25,0,2,Espanyol,Sergio González Soriano,Barcelona,Luis Enrique Martínez García,RCDE Stadium,Antonio Miguel Mateu Lahoz,Espanyol
+2014.0,266921,1,2014-08-24,3,0,Barcelona,Luis Enrique Martínez García,Elche,Francisco Escriba Segura,Spotify Camp Nou,Fernando Teixeira,Elche
+2014.0,267499,11,2014-11-08,1,2,Almería,Francisco Javier Rodríguez Vílchez,Barcelona,Luis Enrique Martínez García,Power Horse Stadium – Estadio de los Juegos Mediterráneos,Alberto Undiano Mallenco,Almería
+2014.0,266741,23,2015-02-15,5,0,Barcelona,Luis Enrique Martínez García,Levante UD,Luis Lucas Alcaraz González,Spotify Camp Nou,,Levante UD
+2014.0,266871,22,2015-02-08,2,5,Athletic Club,Ernesto Valverde Tejedor,Barcelona,Luis Enrique Martínez García,San Mamés Barria,Antonio Miguel Mateu Lahoz,Athletic Club
+2014.0,266967,27,2015-03-14,0,2,Eibar,Gaizka Garitano Aguirre,Barcelona,Luis Enrique Martínez García,Estadio Municipal de Ipurúa,,Eibar
+2014.0,266929,29,2015-04-05,0,1,Celta Vigo,Manuel Eduardo Berizzo,Barcelona,Luis Enrique Martínez García,Abanca-Balaídos,,Celta Vigo
+2014.0,266770,4,2014-09-21,0,5,Levante UD,José Luis Mendilibar Etxebarria,Barcelona,Luis Enrique Martínez García,Estadio Ciudad de Valencia,José Luis González González,Levante UD
+2014.0,266142,31,2015-04-11,2,2,Sevilla,Unai Emery Etxegoien,Barcelona,Luis Enrique Martínez García,Estadio Ramón Sánchez Pizjuán,,Sevilla
+2015.0,266498,29,2016-03-12,6,0,Barcelona,Luis Enrique Martínez García,Getafe,Francisco Escriba Segura,Spotify Camp Nou,Pedro Jesús Pérez Montero,Getafe
+2015.0,266986,36,2016-04-30,0,2,Real Betis,Juan Merino Ruíz,Barcelona,Luis Enrique Martínez García,Estadio Benito Villamarín,Antonio Miguel Mateu Lahoz,Real Betis
+2015.0,267533,31,2016-04-02,1,2,Barcelona,Luis Enrique Martínez García,Real Madrid,Zinédine Zidane,Spotify Camp Nou,,Real Madrid
+2015.0,266310,34,2016-04-20,0,8,RC Deportivo La Coruña,Víctor Sánchez del Amo,Barcelona,Luis Enrique Martínez García,Estadio Abanca-Riazor,,RC Deportivo La Coruña
+2015.0,267576,22,2016-01-30,2,1,Barcelona,Luis Enrique Martínez García,Atlético Madrid,Diego Pablo Simeone,Spotify Camp Nou,Alberto Undiano Mallenco,Atlético Madrid
+2015.0,266653,27,2016-03-03,1,5,Rayo Vallecano,Francisco Jémez Martín,Barcelona,Luis Enrique Martínez García,Estadio de Vallecas,,Rayo Vallecano
+2015.0,265944,35,2016-04-23,6,0,Barcelona,Luis Enrique Martínez García,Sporting Gijón,Abelardo Fernández Antuña,Spotify Camp Nou,Carlos Clos Gómez,Sporting Gijón
+2015.0,265894,21,2016-01-23,1,2,Málaga,Javier Gracia Carlos,Barcelona,Luis Enrique Martínez García,Estadio La Rosaleda,Carlos Clos Gómez,Málaga
+2015.0,265958,37,2016-05-08,5,0,Barcelona,Luis Enrique Martínez García,Espanyol,Constantin Gâlcă,Spotify Camp Nou,Jesús Gil Manzano,Espanyol
+2015.0,267611,6,2015-09-26,2,1,Barcelona,Luis Enrique Martínez García,Las Palmas,Francisco Herrera Lorenzo,Spotify Camp Nou,,Las Palmas
+2015.0,267422,2,2015-08-29,1,0,Barcelona,Luis Enrique Martínez García,Málaga,Javier Gracia Carlos,Spotify Camp Nou,,Málaga
+2015.0,266236,1,2015-08-23,0,1,Athletic Club,Ernesto Valverde Tejedor,Barcelona,Luis Enrique Martínez García,San Mamés Barria,,Athletic Club
+2015.0,267274,14,2015-12-05,1,1,Valencia,Salvador González Marco,Barcelona,Luis Enrique Martínez García,Estadio de Mestalla,,Valencia
+2015.0,266961,15,2015-12-12,2,2,Barcelona,Luis Enrique Martínez García,RC Deportivo La Coruña,Víctor Sánchez del Amo,Spotify Camp Nou,,RC Deportivo La Coruña
+2015.0,266885,13,2015-11-28,4,0,Barcelona,Luis Enrique Martínez García,Real Sociedad,Eusebio Sacristán Mena,Spotify Camp Nou,Ignacio Iglesias Villanueva,Real Sociedad
+2015.0,266815,16,2016-02-17,1,3,Sporting Gijón,Abelardo Fernández Antuña,Barcelona,Luis Enrique Martínez García,Estadio Municipal El Molinón,,Sporting Gijón
+2015.0,267506,38,2016-05-14,0,3,Granada,José Manuel González López,Barcelona,Luis Enrique Martínez García,Estadio Nuevo Los Cármenes,,Granada
+2015.0,266664,32,2016-04-09,1,0,Real Sociedad,Eusebio Sacristán Mena,Barcelona,Luis Enrique Martínez García,Reale Arena,Ignacio Iglesias Villanueva,Real Sociedad
+2015.0,266106,30,2016-03-20,2,2,Villarreal,Marcelino García Toral,Barcelona,Luis Enrique Martínez García,Estadio de la Cerámica,,Villarreal
+2015.0,266670,18,2016-01-02,0,0,Espanyol,Constantin Gâlcă,Barcelona,Luis Enrique Martínez García,RCDE Stadium,José Luis González González,Espanyol
+2015.0,266149,20,2016-01-17,6,0,Barcelona,Luis Enrique Martínez García,Athletic Club,Ernesto Valverde Tejedor,Spotify Camp Nou,Antonio Miguel Mateu Lahoz,Athletic Club
+2015.0,266620,19,2016-01-09,4,0,Barcelona,Luis Enrique Martínez García,Granada,José Ramón Sandoval Huertas,Spotify Camp Nou,Carlos Velasco Carballo,Granada
+2015.0,266056,28,2016-03-06,0,4,Eibar,José Luis Mendilibar Etxebarria,Barcelona,Luis Enrique Martínez García,Estadio Municipal de Ipurúa,Alberto Undiano Mallenco,Eibar
+2015.0,267327,17,2015-12-30,4,0,Barcelona,Luis Enrique Martínez García,Real Betis,José Mel Pérez,Spotify Camp Nou,,Real Betis
+2015.0,266166,3,2015-09-12,1,2,Atlético Madrid,Diego Pablo Simeone,Barcelona,Luis Enrique Martínez García,Estadio Vicente Calderón,Antonio Miguel Mateu Lahoz,Atlético Madrid
+2015.0,266160,23,2016-02-07,0,2,Levante UD,Joan Francesc Ferrer Sicilia,Barcelona,Luis Enrique Martínez García,Estadio Ciudad de Valencia,Pedro Jesús Pérez Montero,Levante UD
+2015.0,265839,26,2016-02-28,2,1,Barcelona,Luis Enrique Martínez García,Sevilla,Unai Emery Etxegoien,Spotify Camp Nou,,Sevilla
+2015.0,266424,12,2015-11-21,0,4,Real Madrid,Rafael Benítez Maudes,Barcelona,Luis Enrique Martínez García,Estadio Santiago Bernabéu,David Fernández Borbalan,Real Madrid
+2015.0,266467,5,2015-09-23,4,1,Celta Vigo,Manuel Eduardo Berizzo,Barcelona,Luis Enrique Martínez García,Abanca-Balaídos,Alberto Undiano Mallenco,Celta Vigo
+2015.0,267273,25,2016-02-20,1,2,Las Palmas,Enrique Setién Solar,Barcelona,Luis Enrique Martínez García,Estadio de Gran Canaria,,Las Palmas
+2015.0,266490,4,2015-09-20,4,1,Barcelona,Luis Enrique Martínez García,Levante UD,Luis Lucas Alcaraz González,Spotify Camp Nou,David Fernández Borbalan,Levante UD
+2015.0,266254,24,2016-02-14,6,1,Barcelona,Luis Enrique Martínez García,Celta Vigo,Manuel Eduardo Berizzo,Spotify Camp Nou,,Celta Vigo
+2015.0,266557,33,2016-04-17,1,2,Barcelona,Luis Enrique Martínez García,Valencia,Francisco Martín Ayestarán Barandiarán,Spotify Camp Nou,David Fernández Borbalan,Valencia
+2016.0,266989,11,2016-11-06,1,2,Sevilla,Jorge Luis Sampaoli Moya,Barcelona,Luis Enrique Martínez García,Estadio Ramón Sánchez Pizjuán,,Sevilla
+2016.0,266357,15,2016-12-10,0,3,Osasuna,Joaquín de Jesús Caparrós Camino,Barcelona,Luis Enrique Martínez García,Estadio El Sadar,,Osasuna
+2016.0,267569,33,2017-04-23,2,3,Real Madrid,Zinédine Zidane,Barcelona,Luis Enrique Martínez García,Estadio Santiago Bernabéu,,Real Madrid
+2016.0,267212,4,2016-09-17,1,5,Leganés,Asier Garitano Aguirrezábal,Barcelona,Luis Enrique Martínez García,Estadio Municipal de Butarque,,Leganés
+2016.0,266669,3,2016-09-10,1,2,Barcelona,Luis Enrique Martínez García,Deportivo Alavés,Mauricio Pellegrino,Spotify Camp Nou,,Deportivo Alavés
+2016.0,266892,2,2016-08-28,0,1,Athletic Club,Ernesto Valverde Tejedor,Barcelona,Luis Enrique Martínez García,San Mamés Barria,Antonio Miguel Mateu Lahoz,Athletic Club
+2016.0,267220,5,2016-09-21,1,1,Barcelona,Luis Enrique Martínez García,Atlético Madrid,Diego Pablo Simeone,Spotify Camp Nou,David Fernández Borbalan,Atlético Madrid
+2016.0,267670,1,2016-08-20,6,2,Barcelona,Luis Enrique Martínez García,Real Betis,Gustavo Augusto Poyet Domínguez,Spotify Camp Nou,Alberto Undiano Mallenco,Real Betis
+2016.0,266516,20,2017-01-29,1,1,Real Betis,Víctor Sánchez del Amo,Barcelona,Luis Enrique Martínez García,Estadio Benito Villamarín,,Real Betis
+2016.0,267039,37,2017-05-14,1,4,Las Palmas,Enrique Setién Solar,Barcelona,Luis Enrique Martínez García,Estadio de Gran Canaria,José Luis González González,Las Palmas
+2016.0,266477,17,2017-01-08,1,1,Villarreal,Francisco Escriba Segura,Barcelona,Luis Enrique Martínez García,Estadio de la Cerámica,Ignacio Iglesias Villanueva,Villarreal
+2016.0,267101,34,2017-04-26,7,1,Barcelona,Luis Enrique Martínez García,Osasuna,Petar Vasiljević,Spotify Camp Nou,,Osasuna
+2016.0,266440,28,2017-03-19,4,2,Barcelona,Luis Enrique Martínez García,Valencia,Salvador González Marco,Spotify Camp Nou,,Valencia
+2016.0,266033,9,2016-10-22,2,3,Valencia,Claudio Cesare Prandelli,Barcelona,Luis Enrique Martínez García,Estadio de Mestalla,Alberto Undiano Mallenco,Valencia
+2016.0,267660,27,2017-03-12,2,1,RC Deportivo La Coruña,José Mel Pérez,Barcelona,Luis Enrique Martínez García,Estadio Abanca-Riazor,David Fernández Borbalan,RC Deportivo La Coruña
+2016.0,266273,22,2017-02-11,0,6,Deportivo Alavés,Mauricio Pellegrino,Barcelona,Luis Enrique Martínez García,Estadio de Mendizorroza,Carlos Clos Gómez,Deportivo Alavés
+2016.0,267395,18,2017-01-14,5,0,Barcelona,Luis Enrique Martínez García,Las Palmas,Enrique Setién Solar,Spotify Camp Nou,Alberto Undiano Mallenco,Las Palmas
+2016.0,266874,21,2017-02-04,3,0,Barcelona,Luis Enrique Martínez García,Athletic Club,Ernesto Valverde Tejedor,Spotify Camp Nou,José Luis González González,Athletic Club
+2016.0,266731,19,2017-01-22,0,4,Eibar,José Luis Mendilibar Etxebarria,Barcelona,Luis Enrique Martínez García,Estadio Municipal de Ipurúa,,Eibar
+2016.0,266528,16,2016-12-18,4,1,Barcelona,Luis Enrique Martínez García,Espanyol,Enrique Sánchez Flores,Spotify Camp Nou,Antonio Miguel Mateu Lahoz,Espanyol
+2016.0,266280,30,2017-04-05,3,0,Barcelona,Luis Enrique Martínez García,Sevilla,Jorge Luis Sampaoli Moya,Spotify Camp Nou,Carlos Clos Gómez,Sevilla
+2016.0,267432,38,2017-05-21,4,2,Barcelona,Luis Enrique Martínez García,Eibar,José Luis Mendilibar Etxebarria,Spotify Camp Nou,,Eibar
+2016.0,267076,14,2016-12-03,1,1,Barcelona,Luis Enrique Martínez García,Real Madrid,Zinédine Zidane,Spotify Camp Nou,Carlos Clos Gómez,Real Madrid
+2016.0,267590,31,2017-04-08,2,0,Málaga,José Miguel González Martín del Campo,Barcelona,Luis Enrique Martínez García,Estadio La Rosaleda,Jesús Gil Manzano,Málaga
+2016.0,267373,32,2017-04-15,3,2,Barcelona,Luis Enrique Martínez García,Real Sociedad,Eusebio Sacristán Mena,Spotify Camp Nou,,Real Sociedad
+2016.0,267077,35,2017-04-29,0,3,Espanyol,Enrique Sánchez Flores,Barcelona,Luis Enrique Martínez García,RCDE Stadium,Alberto Undiano Mallenco,Espanyol
+2016.0,266952,36,2017-05-06,4,1,Barcelona,Luis Enrique Martínez García,Villarreal,Francisco Escriba Segura,Spotify Camp Nou,,Villarreal
+2016.0,267464,24,2017-02-26,1,2,Atlético Madrid,Diego Pablo Simeone,Barcelona,Luis Enrique Martínez García,Estadio Vicente Calderón,Antonio Miguel Mateu Lahoz,Atlético Madrid
+2016.0,266299,26,2017-03-04,5,0,Barcelona,Luis Enrique Martínez García,Celta Vigo,Manuel Eduardo Berizzo,Spotify Camp Nou,Jesús Gil Manzano,Celta Vigo
+2016.0,266191,13,2016-11-27,1,1,Real Sociedad,Eusebio Sacristán Mena,Barcelona,Luis Enrique Martínez García,Reale Arena,Jesús Gil Manzano,Real Sociedad
+2016.0,265952,25,2017-03-01,6,1,Barcelona,Luis Enrique Martínez García,Sporting Gijón,Joan Francesc Ferrer Sicilia,Spotify Camp Nou,,Sporting Gijón
+2016.0,267492,8,2016-10-15,4,0,Barcelona,Luis Enrique Martínez García,RC Deportivo La Coruña,Gaizka Garitano Aguirre,Spotify Camp Nou,,RC Deportivo La Coruña
+2016.0,267596,23,2017-02-19,2,1,Barcelona,Luis Enrique Martínez García,Leganés,Asier Garitano Aguirrezábal,Spotify Camp Nou,Ignacio Iglesias Villanueva,Leganés
+2016.0,267058,10,2016-10-29,1,0,Barcelona,Luis Enrique Martínez García,Granada,Luis Lucas Alcaraz González,Spotify Camp Nou,,Granada
+2017.0,9880,32,2018-04-14,2,1,Barcelona,Ernesto Valverde Tejedor,Valencia,Marcelino García Toral,Spotify Camp Nou,Carlos del Cerro Grande,Valencia
+2017.0,9912,35,2018-04-29,2,4,RC Deportivo La Coruña,Clarence Seedorf,Barcelona,Ernesto Valverde Tejedor,Estadio Abanca-Riazor,Ricardo De Burgos Bengoetxea,RC Deportivo La Coruña
+2017.0,9924,36,2018-05-06,2,2,Barcelona,Ernesto Valverde Tejedor,Real Madrid,Zinédine Zidane,Spotify Camp Nou,Alejandro José Hernández Hernández,Real Madrid
+2017.0,9855,29,2018-03-18,2,0,Barcelona,Ernesto Valverde Tejedor,Athletic Club,José Ángel Ziganda Lacunza,Spotify Camp Nou,Santiago Jaime Latre,Athletic Club
+2017.0,9827,26,2018-03-01,1,1,Las Palmas,Francisco Jémez Martín,Barcelona,Ernesto Valverde Tejedor,Estadio de Gran Canaria,Antonio Miguel Mateu Lahoz,Las Palmas
+2017.0,9799,24,2018-02-17,0,2,Eibar,José Luis Mendilibar Etxebarria,Barcelona,Ernesto Valverde Tejedor,Estadio Municipal de Ipurúa,Alejandro José Hernández Hernández,Eibar
+2017.0,9636,7,2017-10-01,3,0,Barcelona,Ernesto Valverde Tejedor,Las Palmas,Francisco Martín Ayestarán Barandiarán,Spotify Camp Nou,José Luis Munuera Montero,Las Palmas
+2017.0,9609,5,2017-09-19,6,1,Barcelona,Ernesto Valverde Tejedor,Eibar,José Luis Mendilibar Etxebarria,Spotify Camp Nou,Alejandro José Hernández Hernández,Eibar
+2017.0,9575,1,2017-08-20,2,0,Barcelona,Ernesto Valverde Tejedor,Real Betis,Enrique Setién Solar,Spotify Camp Nou,Daniel Jesús Trujillo Suárez,Real Betis
+2017.0,9928,34,2018-05-09,5,1,Barcelona,Ernesto Valverde Tejedor,Villarreal,Javier Calleja Revilla,Spotify Camp Nou,,Villarreal
+2017.0,9736,17,2017-12-23,0,3,Real Madrid,Zinédine Zidane,Barcelona,Ernesto Valverde Tejedor,Estadio Santiago Bernabéu,,Real Madrid
+2017.0,9742,18,2018-01-07,3,0,Barcelona,Ernesto Valverde Tejedor,Levante UD,Juan Ramón López Muñiz,Spotify Camp Nou,,Levante UD
+2017.0,9765,20,2018-01-21,0,5,Real Betis,Eder Sarabia Armesto,Barcelona,Ernesto Valverde Tejedor,Estadio Benito Villamarín,,Real Betis
+2017.0,9661,10,2017-10-28,0,2,Athletic Club,José Ángel Ziganda Lacunza,Barcelona,Ernesto Valverde Tejedor,San Mamés Barria,Juan Martínez Munuera,Athletic Club
+2017.0,9592,3,2017-09-09,5,0,Barcelona,Ernesto Valverde Tejedor,Espanyol,Enrique Sánchez Flores,Spotify Camp Nou,Jesús Gil Manzano,Espanyol
+2017.0,9870,31,2018-04-07,3,1,Barcelona,Ernesto Valverde Tejedor,Leganés,Asier Garitano Aguirrezábal,Spotify Camp Nou,Ricardo De Burgos Bengoetxea,Leganés
+2017.0,9783,22,2018-02-04,1,1,Espanyol,Enrique Sánchez Flores,Barcelona,Ernesto Valverde Tejedor,RCDE Stadium,Jesús Gil Manzano,Espanyol
+2017.0,9700,14,2017-12-02,2,2,Barcelona,Ernesto Valverde Tejedor,Celta Vigo,Juan Carlos Unzué Labiano,Spotify Camp Nou,,Celta Vigo
+2017.0,9860,30,2018-03-31,2,2,Sevilla,Vincenzo Montella,Barcelona,Ernesto Valverde Tejedor,Estadio Ramón Sánchez Pizjuán,José Luis González González,Sevilla
+2017.0,9695,13,2017-11-26,1,1,Valencia,Juan Rubén Uría Corral,Barcelona,Ernesto Valverde Tejedor,Estadio de Mestalla,Ignacio Iglesias Villanueva,Valencia
+2017.0,9794,23,2018-02-11,0,0,Barcelona,Ernesto Valverde Tejedor,Getafe,José Bordalás Jiménez,Spotify Camp Nou,David Fernández Borbalan,Getafe
+2017.0,9717,15,2017-12-10,0,2,Villarreal,Javier Calleja Revilla,Barcelona,Ernesto Valverde Tejedor,Estadio de la Cerámica,,Villarreal
+2017.0,9673,11,2017-11-04,2,1,Barcelona,Ernesto Valverde Tejedor,Sevilla,Manuel Eduardo Berizzo,Spotify Camp Nou,José Luis González González,Sevilla
+2017.0,9650,9,2017-10-21,2,0,Barcelona,Ernesto Valverde Tejedor,Málaga,José Miguel González Martín del Campo,Spotify Camp Nou,,Málaga
+2017.0,9620,6,2017-09-23,0,3,Girona,Pablo Javier Machín Díez,Barcelona,Ernesto Valverde Tejedor,Estadi Municipal de Montilivi,José María Sánchez Martínez,Girona
+2017.0,9837,27,2018-03-04,1,0,Barcelona,Ernesto Valverde Tejedor,Atlético Madrid,Diego Pablo Simeone,Spotify Camp Nou,Jesús Gil Manzano,Atlético Madrid
+2017.0,9811,25,2018-02-24,6,1,Barcelona,Ernesto Valverde Tejedor,Girona,Pablo Javier Machín Díez,Spotify Camp Nou,,Girona
+2017.0,9642,8,2017-10-14,1,1,Atlético Madrid,Diego Pablo Simeone,Barcelona,Ernesto Valverde Tejedor,	Estádio Cívitas Metropolitano,Antonio Miguel Mateu Lahoz,Atlético Madrid
+2017.0,9774,21,2018-01-28,2,1,Barcelona,Ernesto Valverde Tejedor,Deportivo Alavés,Abelardo Fernández Antuña,Spotify Camp Nou,Ignacio Iglesias Villanueva,Deportivo Alavés
+2017.0,9602,4,2017-09-16,1,2,Getafe,José Bordalás Jiménez,Barcelona,Ernesto Valverde Tejedor,Coliseum Alfonso Pérez,David Fernández Borbalan,Getafe
+2017.0,9948,38,2018-05-20,1,0,Barcelona,Ernesto Valverde Tejedor,Real Sociedad,Imanol Alguacil Barrenetxea,Spotify Camp Nou,José Luis Munuera Montero,Real Sociedad
+2017.0,9682,12,2017-11-18,0,3,Leganés,Asier Garitano Aguirrezábal,Barcelona,Ernesto Valverde Tejedor,Estadio Municipal de Butarque,Alberto Undiano Mallenco,Leganés
+2017.0,9581,2,2017-08-26,0,2,Deportivo Alavés,Luis Francisco Zubeldía,Barcelona,Ernesto Valverde Tejedor,Estadio de Mendizorroza,Carlos del Cerro Grande,Deportivo Alavés
+2017.0,9726,16,2017-12-17,4,0,Barcelona,Ernesto Valverde Tejedor,RC Deportivo La Coruña,Cristóbal Parralo Aguilera,Spotify Camp Nou,Antonio Miguel Mateu Lahoz,RC Deportivo La Coruña
+2017.0,9754,19,2018-01-14,2,4,Real Sociedad,Eusebio Sacristán Mena,Barcelona,Ernesto Valverde Tejedor,Reale Arena,José Luis González González,Real Sociedad
+2017.0,9889,33,2018-04-17,2,2,Celta Vigo,Juan Carlos Unzué Labiano,Barcelona,Ernesto Valverde Tejedor,Abanca-Balaídos,David Fernández Borbalan,Celta Vigo
+2018.0,15978,4,2018-09-15,1,2,Real Sociedad,Asier Garitano Aguirrezábal,Barcelona,Ernesto Valverde Tejedor,Reale Arena,Carlos del Cerro Grande,Real Sociedad
+2018.0,15998,6,2018-09-26,2,1,Leganés,Mauricio Pellegrino,Barcelona,Ernesto Valverde Tejedor,Estadio Municipal de Butarque,Alberto Undiano Mallenco,Leganés
+2018.0,16029,9,2018-10-20,4,2,Barcelona,Ernesto Valverde Tejedor,Sevilla,Pablo Javier Machín Díez,Spotify Camp Nou,,Sevilla
+2018.0,16073,13,2018-11-24,1,1,Atlético Madrid,Diego Pablo Simeone,Barcelona,Ernesto Valverde Tejedor,	Estádio Cívitas Metropolitano,Jesús Gil Manzano,Atlético Madrid
+2018.0,16086,15,2018-12-08,0,4,Espanyol,Joan Francesc Ferrer Sicilia,Barcelona,Ernesto Valverde Tejedor,RCDE Stadium,,Espanyol
+2018.0,16190,25,2019-02-23,2,4,Sevilla,Pablo Javier Machín Díez,Barcelona,Ernesto Valverde Tejedor,Estadio Ramón Sánchez Pizjuán,Antonio Miguel Mateu Lahoz,Sevilla
+2018.0,16109,17,2018-12-22,2,0,Barcelona,Ernesto Valverde Tejedor,Celta Vigo,José Miguel Azevedo Cardoso,Spotify Camp Nou,Eduardo Prieto Iglesias,Celta Vigo
+2018.0,16120,18,2019-01-06,1,2,Getafe,José Bordalás Jiménez,Barcelona,Ernesto Valverde Tejedor,Coliseum Alfonso Pérez,,Getafe
+2018.0,16182,24,2019-02-16,1,0,Barcelona,Ernesto Valverde Tejedor,Real Valladolid,Sergio González Soriano,Spotify Camp Nou,,Real Valladolid
+2018.0,16215,28,2019-03-17,1,4,Real Betis,Enrique Setién Solar,Barcelona,Ernesto Valverde Tejedor,Estadio Benito Villamarín,,Real Betis
+2018.0,16173,23,2019-02-10,0,0,Athletic Club,Gaizka Garitano Aguirre,Barcelona,Ernesto Valverde Tejedor,San Mamés Barria,Carlos del Cerro Grande,Athletic Club
+2018.0,16265,33,2019-04-20,2,1,Barcelona,Ernesto Valverde Tejedor,Real Sociedad,Imanol Alguacil Barrenetxea,Spotify Camp Nou,,Real Sociedad
+2018.0,15946,1,2018-08-18,3,0,Barcelona,Ernesto Valverde Tejedor,Deportivo Alavés,Abelardo Fernández Antuña,Spotify Camp Nou,José María Sánchez Martínez,Deportivo Alavés
+2018.0,16157,22,2019-02-02,2,2,Barcelona,Ernesto Valverde Tejedor,Valencia,Marcelino García Toral,Spotify Camp Nou,Alberto Undiano Mallenco,Valencia
+2018.0,16136,20,2019-01-20,3,1,Barcelona,Ernesto Valverde Tejedor,Leganés,Mauricio Pellegrino,Spotify Camp Nou,Ricardo De Burgos Bengoetxea,Leganés
+2018.0,16248,31,2019-04-06,2,0,Barcelona,Ernesto Valverde Tejedor,Atlético Madrid,Diego Pablo Simeone,Spotify Camp Nou,Jesús Gil Manzano,Atlético Madrid
+2018.0,16056,12,2018-11-11,3,4,Barcelona,Ernesto Valverde Tejedor,Real Betis,Enrique Setién Solar,Spotify Camp Nou,Antonio Miguel Mateu Lahoz,Real Betis
+2018.0,16289,35,2019-04-27,1,0,Barcelona,Ernesto Valverde Tejedor,Levante UD,Francisco José López Fernández,Spotify Camp Nou,Ricardo De Burgos Bengoetxea,Levante UD
+2018.0,16079,14,2018-12-02,2,0,Barcelona,Ernesto Valverde Tejedor,Villarreal,Javier Calleja Revilla,Spotify Camp Nou,José Luis Munuera Montero,Villarreal
+2018.0,16149,21,2019-01-27,0,2,Girona,Eusebio Sacristán Mena,Barcelona,Ernesto Valverde Tejedor,Estadi Municipal de Montilivi,Pablo González Fuertes,Girona
+2018.0,16275,34,2019-04-23,0,2,Deportivo Alavés,Abelardo Fernández Antuña,Barcelona,Ernesto Valverde Tejedor,Estadio de Mendizorroza,,Deportivo Alavés
+2018.0,15973,3,2018-09-02,8,2,Barcelona,Ernesto Valverde Tejedor,Huesca,Leonardo Neoren Franco,Spotify Camp Nou,Mario Melero López,Huesca
+2018.0,16317,38,2019-05-19,2,2,Eibar,José Luis Mendilibar Etxebarria,Barcelona,Ernesto Valverde Tejedor,Estadio Municipal de Ipurúa,,Eibar
+2018.0,16131,19,2019-01-13,3,0,Barcelona,Ernesto Valverde Tejedor,Eibar,José Luis Mendilibar Etxebarria,Spotify Camp Nou,Jesús Gil Manzano,Eibar
+2018.0,16205,27,2019-03-09,3,1,Barcelona,Ernesto Valverde Tejedor,Rayo Vallecano,Miguel Ángel Sánchez Muñoz,Spotify Camp Nou,,Rayo Vallecano
+2018.0,16095,16,2018-12-16,0,5,Levante UD,Francisco José López Fernández,Barcelona,Ernesto Valverde Tejedor,Estadio Ciudad de Valencia,José Luis González González,Levante UD
+2018.0,16306,37,2019-05-12,2,0,Barcelona,Ernesto Valverde Tejedor,Getafe,José Ignacio Fernández García,Spotify Camp Nou,José Luis González González,Getafe
+2018.0,16010,7,2018-09-29,1,1,Barcelona,Ernesto Valverde Tejedor,Athletic Club,Manuel Eduardo Berizzo,Spotify Camp Nou,,Athletic Club
+2018.0,15986,5,2018-09-23,2,2,Barcelona,Ernesto Valverde Tejedor,Girona,Eusebio Sacristán Mena,Spotify Camp Nou,Jesús Gil Manzano,Girona
+2018.0,16240,30,2019-04-02,4,4,Villarreal,Javier Calleja Revilla,Barcelona,Ernesto Valverde Tejedor,Estadio de la Cerámica,,Villarreal
+2018.0,16023,8,2018-10-07,1,1,Valencia,Marcelino García Toral,Barcelona,Ernesto Valverde Tejedor,Estadio de Mestalla,José Luis González González,Valencia
+2018.0,16196,26,2019-03-02,0,1,Real Madrid,Santiago Hernán Solari Poggio,Barcelona,Ernesto Valverde Tejedor,Estadio Santiago Bernabéu,Alberto Undiano Mallenco,Real Madrid
+2018.0,15956,2,2018-08-25,0,1,Real Valladolid,Sergio González Soriano,Barcelona,Ernesto Valverde Tejedor,Estadio Municipal José Zorrilla,Ricardo De Burgos Bengoetxea,Real Valladolid
+2018.0,16231,29,2019-03-30,2,0,Barcelona,Ernesto Valverde Tejedor,Espanyol,Joan Francesc Ferrer Sicilia,Spotify Camp Nou,,Espanyol
+2019.0,303731,25,2020-02-22,5,0,Barcelona,Enrique Setién Solar,Eibar,José Luis Mendilibar Etxebarria,Spotify Camp Nou,,Eibar
+2019.0,303532,29,2020-06-16,2,0,Barcelona,Enrique Setién Solar,Leganés,Javier Aguirre Onaindía,Spotify Camp Nou,,Leganés
+2019.0,303516,32,2020-06-27,2,2,Celta Vigo,Óscar García Junyent,Barcelona,Enrique Setién Solar,Abanca-Balaídos,,Celta Vigo
+2019.0,303596,10,2019-12-18,0,0,Barcelona,Ernesto Valverde Tejedor,Real Madrid,Zinédine Zidane,Spotify Camp Nou,,Real Madrid
+2019.0,303430,6,2019-09-24,2,1,Barcelona,Ernesto Valverde Tejedor,Villarreal,Javier Calleja Revilla,Spotify Camp Nou,,Villarreal
+2019.0,303725,34,2020-07-05,1,4,Villarreal,Javier Calleja Revilla,Barcelona,Enrique Setién Solar,Estadio de la Cerámica,,Villarreal
+2019.0,303504,12,2019-11-02,3,1,Levante UD,Francisco José López Fernández,Barcelona,Ernesto Valverde Tejedor,Estadio Ciudad de Valencia,,Levante UD
+2019.0,303451,16,2019-12-07,5,2,Barcelona,Ernesto Valverde Tejedor,Mallorca,Vicente Moreno Peris,Spotify Camp Nou,,Mallorca
+2019.0,303664,17,2019-12-14,2,2,Real Sociedad,Imanol Alguacil Barrenetxea,Barcelona,Ernesto Valverde Tejedor,Reale Arena,,Real Sociedad
+2019.0,303682,22,2020-02-02,2,1,Barcelona,Enrique Setién Solar,Levante UD,Francisco José López Fernández,Spotify Camp Nou,,Levante UD
+2019.0,303400,21,2020-01-25,2,0,Valencia,Albert Celades López,Barcelona,Enrique Setién Solar,Estadio de Mestalla,Jesús Gil Manzano,Valencia
+2019.0,303634,37,2020-07-16,1,2,Barcelona,Enrique Setién Solar,Osasuna,Jagoba Arrasate Elustondo,Spotify Camp Nou,,Osasuna
+2019.0,303421,38,2020-07-19,0,5,Deportivo Alavés,Juan Ramón López Muñiz,Barcelona,Enrique Setién Solar,Estadio de Mendizorroza,,Deportivo Alavés
+2019.0,303493,31,2020-06-23,1,0,Barcelona,Enrique Setién Solar,Athletic Club,Gaizka Garitano Aguirre,Spotify Camp Nou,Jesús Gil Manzano,Athletic Club
+2019.0,303680,36,2020-07-11,0,1,Real Valladolid,Sergio González Soriano,Barcelona,Enrique Setién Solar,Estadio Municipal José Zorrilla,Antonio Miguel Mateu Lahoz,Real Valladolid
+2019.0,303479,27,2020-03-07,1,0,Barcelona,Enrique Setién Solar,Real Sociedad,Imanol Alguacil Barrenetxea,Spotify Camp Nou,,Real Sociedad
+2019.0,303615,35,2020-07-08,1,0,Barcelona,Enrique Setién Solar,Espanyol,Francisco Joaquín Pérez Rufete,Spotify Camp Nou,,Espanyol
+2019.0,303696,33,2020-06-30,2,2,Barcelona,Enrique Setién Solar,Atlético Madrid,Diego Pablo Simeone,Spotify Camp Nou,,Atlético Madrid
+2019.0,303487,13,2019-11-09,4,1,Barcelona,Ernesto Valverde Tejedor,Celta Vigo,Óscar García Junyent,Spotify Camp Nou,,Celta Vigo
+2019.0,303600,11,2019-10-29,5,1,Barcelona,Ernesto Valverde Tejedor,Real Valladolid,Sergio González Soriano,Spotify Camp Nou,,Real Valladolid
+2019.0,303548,28,2020-06-13,0,4,Mallorca,Vicente Moreno Peris,Barcelona,Enrique Setién Solar,Estadi Mallorca Son Moix,,Mallorca
+2019.0,303652,19,2020-01-04,2,2,Espanyol,Abelardo Fernández Antuña,Barcelona,Ernesto Valverde Tejedor,RCDE Stadium,,Espanyol
+2019.0,303674,30,2020-06-19,0,0,Sevilla,Julen Lopetegui Argote,Barcelona,Enrique Setién Solar,Estadio Ramón Sánchez Pizjuán,José Luis González González,Sevilla
+2019.0,303470,26,2020-03-01,2,0,Real Madrid,Zinédine Zidane,Barcelona,Enrique Setién Solar,Estadio Santiago Bernabéu,Antonio Miguel Mateu Lahoz,Real Madrid
+2019.0,303700,9,2019-10-19,0,3,Eibar,José Luis Mendilibar Etxebarria,Barcelona,Ernesto Valverde Tejedor,Estadio Municipal de Ipurúa,,Eibar
+2019.0,303707,23,2020-02-09,2,3,Real Betis,Joan Francesc Ferrer Sicilia,Barcelona,Enrique Setién Solar,Estadio Benito Villamarín,,Real Betis
+2019.0,303666,5,2019-09-21,2,0,Granada,Diego Martínez Penas,Barcelona,Ernesto Valverde Tejedor,Estadio Nuevo Los Cármenes,,Granada
+2019.0,303715,14,2019-11-23,1,2,Leganés,Javier Aguirre Onaindía,Barcelona,Ernesto Valverde Tejedor,Estadio Municipal de Butarque,,Leganés
+2019.0,303377,24,2020-02-15,2,1,Barcelona,Enrique Setién Solar,Getafe,José Bordalás Jiménez,Spotify Camp Nou,,Getafe
+2019.0,303524,15,2019-12-01,0,1,Atlético Madrid,Diego Pablo Simeone,Barcelona,Ernesto Valverde Tejedor,	Estádio Cívitas Metropolitano,Antonio Miguel Mateu Lahoz,Atlético Madrid
+2019.0,303517,18,2019-12-21,4,1,Barcelona,Ernesto Valverde Tejedor,Deportivo Alavés,Asier Garitano Aguirrezábal,Spotify Camp Nou,,Deportivo Alavés
+2019.0,303610,20,2020-01-19,1,0,Barcelona,Enrique Setién Solar,Granada,Diego Martínez Penas,Spotify Camp Nou,,Granada
+2019.0,303473,8,2019-10-06,4,0,Barcelona,Ernesto Valverde Tejedor,Sevilla,Julen Lopetegui Argote,Spotify Camp Nou,Antonio Miguel Mateu Lahoz,Sevilla
+2020.0,3773386,8,2020-10-31,1,1,Deportivo Alavés,Pablo Javier Machín Díez,Barcelona,Ronald Koeman,Estadio de Mendizorroza,,Deportivo Alavés
+2020.0,3773565,18,2021-01-09,0,4,Granada,Diego Martínez Penas,Barcelona,Ronald Koeman,Estadio Nuevo Los Cármenes,Ricardo De Burgos Bengoetxea,Granada
+2020.0,3773457,37,2021-05-16,1,2,Barcelona,Ronald Koeman,Celta Vigo,Eduardo Germán Coudet,Spotify Camp Nou,,Celta Vigo
+2020.0,3773631,22,2021-02-07,2,3,Real Betis,Manuel Luis Pellegrini Ripamonti,Barcelona,Ronald Koeman,Estadio Benito Villamarín,,Real Betis
+2020.0,3773665,26,2021-03-06,0,2,Osasuna,Jagoba Arrasate Elustondo,Barcelona,Ronald Koeman,Estadio El Sadar,Guillermo Cuadra Fernández,Osasuna
+2020.0,3773497,30,2021-04-10,2,1,Real Madrid,Zinédine Zidane,Barcelona,Ronald Koeman,Estadio Alfredo Di Stéfano,Jesús Gil Manzano,Real Madrid
+2020.0,3773660,13,2020-12-13,1,0,Barcelona,Ronald Koeman,Levante UD,Francisco José López Fernández,Spotify Camp Nou,Ricardo De Burgos Bengoetxea,Levante UD
+2020.0,3773593,3,2020-09-27,4,0,Barcelona,Ronald Koeman,Villarreal,Unai Emery Etxegoien,Spotify Camp Nou,Guillermo Cuadra Fernández,Villarreal
+2020.0,3773466,4,2020-10-01,0,3,Celta Vigo,Óscar García Junyent,Barcelona,Ronald Koeman,Abanca-Balaídos,Carlos del Cerro Grande,Celta Vigo
+2020.0,3773585,7,2020-10-24,1,3,Barcelona,Ronald Koeman,Real Madrid,Zinédine Zidane,Spotify Camp Nou,Juan Martínez Munuera,Real Madrid
+2020.0,3773552,17,2021-01-03,0,1,Huesca,Miguel Ángel Sánchez Muñoz,Barcelona,Ronald Koeman,Estadio El Alcoraz,Guillermo Cuadra Fernández,Huesca
+2020.0,3773672,5,2020-10-04,1,1,Barcelona,Ronald Koeman,Sevilla,Julen Lopetegui Argote,Spotify Camp Nou,Jesús Gil Manzano,Sevilla
+2020.0,3773587,6,2020-10-17,1,0,Getafe,José Bordalás Jiménez,Barcelona,Ronald Koeman,Coliseum Alfonso Pérez,César Soto Grado,Getafe
+2020.0,3773656,10,2020-11-21,1,0,Atlético Madrid,Diego Pablo Simeone,Barcelona,Ronald Koeman,	Estádio Cívitas Metropolitano,,Atlético Madrid
+2020.0,3773377,14,2020-12-19,2,2,Barcelona,Ronald Koeman,Valencia,Javier Gracia Carlos,Spotify Camp Nou,Alejandro José Hernández Hernández,Valencia
+2020.0,3773586,33,2021-04-29,1,2,Barcelona,Ronald Koeman,Granada,Diego Martínez Penas,Spotify Camp Nou,Pablo González Fuertes,Granada
+2020.0,3773372,35,2021-05-08,0,0,Barcelona,Ronald Koeman,Atlético Madrid,Diego Pablo Simeone,Spotify Camp Nou,Antonio Miguel Mateu Lahoz,Atlético Madrid
+2020.0,3773387,36,2021-05-11,3,3,Levante UD,Francisco José López Fernández,Barcelona,Ronald Koeman,Estadio Ciudad de Valencia,José Luis Munuera Montero,Levante UD
+2020.0,3773695,34,2021-05-02,2,3,Valencia,Javier Gracia Carlos,Barcelona,Ronald Koeman,Estadio de Mestalla,José María Sánchez Martínez,Valencia
+2020.0,3773369,27,2021-03-15,4,1,Barcelona,Ronald Koeman,Huesca,Juan José Rojo Martín,Spotify Camp Nou,Adrián Cordero Vega,Huesca
+2020.0,3773661,31,2021-04-22,5,2,Barcelona,Ronald Koeman,Getafe,José Bordalás Jiménez,Spotify Camp Nou,Jorge Figueroa Vázquez,Getafe
+2020.0,3773597,28,2021-03-21,1,6,Real Sociedad,Imanol Alguacil Barrenetxea,Barcelona,Ronald Koeman,Reale Arena,José Luis Munuera Montero,Real Sociedad
+2020.0,3773523,19,2020-12-16,2,1,Barcelona,Ronald Koeman,Real Sociedad,Imanol Alguacil Barrenetxea,Spotify Camp Nou,José María Sánchez Martínez,Real Sociedad
+2020.0,3773571,15,2020-12-22,0,3,Real Valladolid,Sergio González Soriano,Barcelona,Ronald Koeman,Estadio Municipal José Zorrilla,Mario Melero López,Real Valladolid
+2020.0,3773428,12,2020-12-05,2,1,Cádiz,Álvaro Cervera Díaz,Barcelona,Ronald Koeman,Estadio Nuevo Mirandilla,César Soto Grado,Cádiz
+2020.0,3764661,2,2021-01-06,2,3,Athletic Club,Marcelino García Toral,Barcelona,Ronald Koeman,San Mamés Barria,Carlos del Cerro Grande,Athletic Club
+2020.0,3773526,23,2021-02-13,5,1,Barcelona,Ronald Koeman,Deportivo Alavés,Abelardo Fernández Antuña,Spotify Camp Nou,Jorge Figueroa Vázquez,Deportivo Alavés
+2020.0,3773474,29,2021-04-05,1,0,Barcelona,Ronald Koeman,Real Valladolid,Sergio González Soriano,Spotify Camp Nou,Santiago Jaime Latre,Real Valladolid
+2020.0,3773625,25,2021-02-27,0,2,Sevilla,Julen Lopetegui Argote,Barcelona,Ronald Koeman,Estadio Ramón Sánchez Pizjuán,Alejandro José Hernández Hernández,Sevilla
+2020.0,3773403,21,2021-01-31,2,1,Barcelona,Ronald Koeman,Athletic Club,Marcelino García Toral,Spotify Camp Nou,Antonio Miguel Mateu Lahoz,Athletic Club
+2020.0,3773547,11,2020-11-29,4,0,Barcelona,Ronald Koeman,Osasuna,Jagoba Arrasate Elustondo,Spotify Camp Nou,Antonio Miguel Mateu Lahoz,Osasuna
+2020.0,3773415,24,2021-02-21,1,1,Barcelona,Ronald Koeman,Cádiz,Álvaro Cervera Díaz,Spotify Camp Nou,Juan Martínez Munuera,Cádiz
+2020.0,3764440,1,2021-02-24,3,0,Barcelona,Ronald Koeman,Elche,Francisco Escriba Segura,Spotify Camp Nou,Isidro Díaz de Mera Escuderos,Elche
+2020.0,3773689,32,2021-04-25,1,2,Villarreal,Unai Emery Etxegoien,Barcelona,Ronald Koeman,Estadio de la Cerámica,Carlos del Cerro Grande,Villarreal
+2020.0,3773477,9,2020-11-07,5,2,Barcelona,Ronald Koeman,Real Betis,Manuel Luis Pellegrini Ripamonti,Spotify Camp Nou,,Real Betis
